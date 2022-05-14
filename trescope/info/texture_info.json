@@ -1,0 +1,7122 @@
+[
+  {
+    "model_id": "02ea0d87-1c23-4e22-b384-3eb4845a7d3c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "02ecd875-5711-4880-b64a-7937edac1d00",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "08c17716-40b7-4fe0-9c37-d4272b00aaae",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0c885c58-5d05-469a-8ffa-24242249aaeb",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "0cd57ada-bad0-4076-9165-c8785cc2a092",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0f835bc5-728f-488d-a74b-e6d26f23eefd",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "115e21bd-ac04-4093-9bf3-17978c5db741",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "14090f78-f738-4020-93c6-a82aff724d52",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "14c80153-146d-4501-9f4e-7379ed7a60f5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "155c7e2e-0105-4ac2-9b56-c96c74b0718d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "16807240-b36e-4777-aca4-03ea45f7bf9c",
+    "category": null,
+    "style": "Others"
+  },
+  {
+    "model_id": "179229a6-94c6-4811-9433-4edc9c4d5805",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "187f38ad-8af1-4e21-814f-a0659173f7b3",
+    "category": "Wallpaper",
+    "style": null
+  },
+  {
+    "model_id": "188f3d54-9c79-456b-9cb6-d56eb598dfe6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "190f3940-0242-4013-bfc2-078838acb9a5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "19afbfdb-19be-4cdc-a534-8d3d276aeedc",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "2183adc3-8853-4767-8365-6b9c6b9203e2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "221fccf1-f4e9-4902-9df8-42128e2cc401",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2599c39e-234e-497d-80ed-d5871edbcc4c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2a4e2ae1-03bf-4465-8f80-75cf6626ab85",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2b94cfc3-3f0f-4d7b-9aad-1dcd6f2cd183",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "2d71af13-8420-4737-8473-b07c44774c68",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2f5e507a-0183-422d-bbb2-1464eb916ecd",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3199e4ba-6cd0-4118-bdc6-0e2e12466466",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "32eb976f-cd24-4a12-a87a-66312256d6cf",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "34208f4a-9730-4926-846a-f2352be4b175",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "352e9ba9-671f-4b0e-88cc-eb4c37e75f57",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "38f3975f-f4f7-4d76-a619-42d46ad4c94e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3e273bf8-89bd-4cf3-bb48-9a1b4106e7e3",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3fd89b04-1936-4541-9fa2-a99684ec6f64",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "43900b3f-1976-4d08-a439-f41d46d412f6",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "47330a59-a8fe-4a13-b423-0c2163c97103",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "4768ef95-950d-4fbe-91e8-5d77c5d4d1a7",
+    "category": "Wood",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "49ed1dd4-c602-47b6-b9c7-1fd9703d6b64",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4b239801-6abe-47cd-aaa1-fd65d4da2bff",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4d3b85e0-449f-4735-8f52-3c38738d7b41",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4d4ec2c6-f4a5-4a01-b16a-d84501aadda0",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4f62af47-dbf4-4482-8ba8-08de16a33e0e",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "50a89879-187e-4e0a-b936-c0e5831f1fcf",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "51798fe8-4755-458d-a3d0-2ccc8da98a5d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "52e18e04-bc52-45a8-986e-44dbb5d50bb8",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5730e74f-654e-4517-a8f2-eb81da1c2402",
+    "category": "Mirror / Glass",
+    "style": "Others"
+  },
+  {
+    "model_id": "59c343ab-9a37-4ce6-8c69-d0850683d9eb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5c7bc7c0-44c8-4b05-ae1d-d0b224e686c7",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "5f2983eb-1020-4758-9531-28e64a51642a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "601aa3f4-53f1-4a64-91d3-a239e3168304",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "608ae8c7-e471-41d5-8c4a-ffd8c12ea252",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6230dbda-d64c-4e99-ab9a-659a22fcd647",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "624977b5-ecd9-4334-9c01-2879c453363e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "65a47e8c-0ac1-4b3b-9a98-980a0be4eddc",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6c3727d8-5eeb-4670-9c4f-6b2a4321492d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "712f1299-034c-411a-bc83-b5bdb358ad38",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7203095d-0a5e-4b76-93e2-e59d40b21f02",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "73931ee5-0391-42d1-842b-a0d58898d848",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "753d6338-0bb2-4bbc-aa06-e4cb9641aac6",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "759d411c-4784-44f0-90a1-4310d62235dd",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "761e3c1b-daba-493b-92d7-a7c10f08012d",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7a297ed6-a326-42fc-acc2-26ff098bdc7d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7b9bd4dc-5f01-4295-8821-2c84698aaac1",
+    "category": "Cloth",
+    "style": null
+  },
+  {
+    "model_id": "7d4d4b1a-05f1-4aed-adb5-296efc3a45fb",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7ef4186a-53ef-4f1c-b8fc-70bf243ec90d",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "81428a42-1b87-4544-abf7-7b64d07b0582",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "85effff5-f47b-4026-a8c8-fb0192f60e6a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "86c05b4b-d079-4699-9e29-62f6942b45ab",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "86eb83bd-0a95-4cf5-b50e-8a486f041c98",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "86f07b09-7857-48e1-b7ee-1e67061ecc8e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8d2b2cf4-f0c4-4699-a152-f8ac4c99224c",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "8e798867-708f-43b8-9a04-fc47a159231e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "90a6adef-c2b8-4b9c-bf12-7c5b8b0ff7ca",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "93a4c292-dca2-48fe-8c05-727a41b3fd2e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "989c5059-1878-4475-b8b4-7e0a19ea84b3",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "992d4096-33aa-4e98-a799-25e10ac07a89",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9980f361-2f25-4a68-ad51-59ec0ddea376",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "99c62d07-cb91-4988-b7f8-37b54364c9b4",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9aa305af-6feb-4a33-8b20-0a3a40f94cdd",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "9b1fb675-7d7a-47b0-bf4a-44b14203beb3",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "9b2cb47c-8d7a-4832-99f9-32fa40168817",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "9d455873-a706-499c-a870-56113603a84f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9eee2317-a390-416e-bd49-3b217fe5ed3a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9f8d32e9-457b-468e-8f27-43162abd7779",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "9fc80da7-04b1-46b1-9964-245cf2dbd6fd",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a108afe1-f02a-4f08-ba3a-b8f6a693767e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a38c08bd-b12c-4e3b-8b15-765393099455",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a9697459-fe3b-48b1-a3dd-e0d117b84314",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a9ffbe9a-f1fa-4a05-a9b1-9c9b8ba020d0",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "aa256d83-8da2-4f17-b124-0b1911a79bf8",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "acb4aa3a-a647-4881-b934-ea91b1ffa51a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b3548b46-2060-4ab7-936c-ff1b3a66230a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b3ed748f-42bc-487c-a011-71058d851e8f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b431409c-8786-4713-b839-c7452d74365c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b531f987-ac0c-439b-9255-9627fca80ec2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b6991a67-e8c9-4e7a-af42-388ac0251352",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b72e277f-10c4-4333-96ba-a03760ef391c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b741ff17-908e-433e-870b-e80a83be0b13",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b92f5c6c-3105-46cc-a211-717665b27722",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "ba82ab3e-d4b7-4287-8aa0-2384d15a12a7",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "bc185682-1c73-49c7-a326-71d9933983e3",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c027447d-e58a-48e8-8f2d-75a5c9f3ec41",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c044d500-f2df-4527-abd9-02698bd47109",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c0df6ae7-24c3-41d4-bcb8-d6c105b8aad4",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "c1df2f94-2c60-4935-81df-5ae99b72692b",
+    "category": "Flooring",
+    "style": "American Country"
+  },
+  {
+    "model_id": "c255a875-e678-4d9e-85ec-55c5512d5b26",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c46b54f5-e221-4b0c-9e83-f9fcaa1bfc0e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c71761a5-688e-4551-b90a-5df423fc5abf",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "c7a2f91e-3aa4-4321-bc3d-f8d966f5013b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "cda2b9da-10c6-4450-a0d5-85c0a0b8e3cd",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d2914839-7639-4874-a4fd-814394e85c22",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d45dc1f7-66fd-410a-9c4f-43f44b1554f0",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d478994e-d51b-432e-b980-63b9985a804b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d4a6e319-d668-4c74-ac16-f3432183517a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d8c86b46-a2b9-4e8a-97cb-8407a0d2ca97",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d943aad2-ead4-43c1-9ca8-3c555c97e0c9",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dda65e13-7909-45a6-9899-082323cba808",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ddb8d5f5-148b-448c-970b-7b4f18e17c3c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e11f98da-6446-456b-9428-311d33cb7397",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "e1e41152-4b55-43c8-b376-2adfcf0513f0",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e3991c1a-27bc-4648-bad9-e8c7d176a357",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "e75236df-af02-41d5-a48c-5b60ce3d9b7b",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "e78a4009-c955-46cd-8828-602e2805d124",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ebde2806-c4a6-4814-ab8e-d5f4d9ff2b54",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "eca96c93-82c4-4a43-b858-6cc7fc0952f8",
+    "category": "Flooring",
+    "style": null
+  },
+  {
+    "model_id": "eea5c158-d621-46a4-b2f6-8b300c6d9d86",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "f0c79730-d400-4da2-ad84-74987256f07a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f1881119-63fd-45d0-8ee1-021ef9280996",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f450cc4c-b817-4851-a0fc-b95880033e4a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f91a0276-b305-4ced-9516-af472baa4f52",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fa6cc3cc-bfc8-462f-b215-2c3002e830a2",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "fa78c8fa-a019-451a-b2a9-c08799a6879b",
+    "category": "Flooring",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "fba60f3b-aa40-4ae7-b664-74b1e61e78ec",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fd1e7b8e-38cf-4ecc-871c-06e70bff3a8d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fd3f9e0e-7fe5-4b23-8652-bd6e52aeb253",
+    "category": "Flooring",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "fe00ca4b-892d-44ff-a03d-11db8b613923",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "02f92b39-8eb1-4081-9038-b708b01302c8",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "05400871-3e6a-453a-b31f-4039b392e527",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "06173b7f-725d-46a8-bb01-b241fe9040f7",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "06e2d991-cb66-4621-8f73-6c83db76a71b",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "08414b0f-83ee-4dc4-a88b-b89ce590face",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0a5adcc7-f17f-488f-9f95-8690cbc31321",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0bd7344d-2e00-44a3-b846-96dcbc02a9e5",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0cbdfbff-c0c0-402b-b076-df63ab4964da",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0dc896a5-ed56-49f1-9d96-e430efe585ac",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "134c9a49-28d9-4f3d-8f2a-6c95f22024e8",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "153df3ac-f17f-46e4-8e84-24ca32891849",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "17e73326-9eb6-4072-a242-395934de3ebc",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "183f6905-762e-4136-89cd-55b4b63e778d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "18e5d535-4765-43be-b959-ad35909f5cfd",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1bec4ae0-8b03-45be-9576-1ce6d2fe39a6",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1f089d62-6630-4d55-9f9a-d3625497392e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "227ba513-baa3-41ed-997f-4a9080f90162",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "272cf0bc-6b81-441f-93fc-558ebfbe2297",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2ab2712b-a7b9-411b-8a74-d32589c260a7",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "2ac2f562-4e48-44eb-bb94-97dcc1946c4d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2b7683e8-9711-46c7-bdad-c8d15c52362f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2dab5281-eec2-482a-9cb3-1c331d7aa307",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "301b3cf0-be10-4f5b-bcf7-7625202842d5",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "30bdaa9c-c665-422a-af0d-40ed39b86487",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3551da69-ea00-4c6e-a31c-21a3877d775a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3a30d175-9fab-467c-853f-3f8f5b151b8d",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3d39f158-f8d8-471c-8a00-2bf6447dd276",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3e45be33-2cad-47b6-8e80-245696d868fd",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "40cd544c-8323-4fd5-9fda-00eb90bd9653",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "41479793-178c-480f-88ef-8221c7452390",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "41e8efe4-85de-4322-9c81-a3e30fb7de5a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "42103ea1-5b74-40b6-b372-aea17dab9e0a",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "42d22893-55e4-4e21-b52a-ad17fe7e7be5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "452cdfb2-dbf3-442f-a10e-5bc46f84516a",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "45cbae7a-6498-4391-9978-d21f2f17abb8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "45dedf6a-ab25-478d-b1e2-2f548badd8bf",
+    "category": "Flooring",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "4827f4de-3e5e-4b4f-b97b-5867bc41be3e",
+    "category": "Flooring",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "4b894814-2c8f-4884-89f9-e51fffa09ebb",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4be1a20c-bc15-4899-9745-9327a42c9c14",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "51adb0aa-398a-4264-9dc8-585569b46058",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "530ef1d6-1436-454b-bbb2-32ecc5b58e94",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "53f1978d-faa9-49de-8a49-09567d96c031",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5789f2c5-632a-4427-81d8-0396a11b9706",
+    "category": "Tile",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "5895876e-ea5a-464e-abb2-bc337b9bd000",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5fb9383e-e086-4429-b963-58388f7b3422",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "604a0cd8-6bd9-4afd-9a90-cc97da3fd8eb",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6301789c-9de0-4e29-9527-0e356d84ee2f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "65faa8e4-f1ae-4354-8df3-807ce6e5edd8",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "66f19c74-7bb6-402d-8633-af222dedc112",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "689f72dc-57a2-4513-aa91-15a3cd2c4f08",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "6a4f0859-9981-473b-9827-fcdd5be3fcf5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6fc5fcdf-8ac9-4a4f-8a95-f89bcbfdfc65",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "6fd721dc-64f6-4db0-a624-da57aa0fabf3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "70c46c3d-2462-476f-8fde-e2e177ed1182",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7202fd5f-7ee0-42a7-bd40-142559e17b5f",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "72440060-52f4-4f66-a48f-3710eec29a3f",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "72dc0bee-5b44-475f-9f83-e14d2537f0c3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "76654870-3076-44d6-909e-3fa6f79cf55f",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "76b0ffeb-71dd-4a1e-9023-6db0d3776047",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "787eeef9-60f1-4965-9598-6e395a36c67a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "78ec22e1-3f61-4a85-ab59-b2479acf4075",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "7977726c-b296-4633-9d9e-e92ff13e9585",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7ae5f958-4c6c-4caf-8135-b0a8f0ec9436",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "7fa5297e-70d7-46ac-8df9-06758c5e1e2a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "802e9ef0-06f1-4500-ab9f-bfbd30c636b8",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "806d7a5c-4193-4176-bacf-ca885b642d86",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "815d2de3-d19f-4e20-8f67-5897549e7468",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "82919129-9e1a-4590-90be-d48fbada1010",
+    "category": "Mirror / Glass",
+    "style": "Others"
+  },
+  {
+    "model_id": "8463e2ec-4d6c-4eb4-b030-c4af518fa284",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "856be42a-f12d-49e9-a12b-ccbdeeae0d96",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "863fd456-64c8-4428-b02f-3668d1d55bcb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "880615ff-0d5b-43d2-9fe4-d489e5de0248",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8d821925-a2dc-4188-98b4-4db92b8e0bff",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8dbfcb27-211a-484f-b682-5e1bb0f9faee",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8e4892fb-ee38-4ef3-bead-1bd81bf3ac8c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8efd3fae-8274-49eb-bf9b-a52fab4b7844",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "900cbf30-0b67-493d-8210-8de1e3f461f8",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "927dd2db-687b-4d0d-bf4f-33cf74d8c8d1",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "92afe23e-6e0c-4548-98f9-6ac6701b0c57",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "93617fd4-8da7-42e7-9c3f-c1ffe9d79006",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9591dfd7-59f1-4edb-9419-77c0ff00c0b4",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "96b6badb-106c-4f7f-a817-03313c28458d",
+    "category": "Tile",
+    "style": "Southeast Asia"
+  },
+  {
+    "model_id": "96d71437-3ff9-416f-8727-7998cfc35c08",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "96dd137c-44ff-4d29-b615-e34b848dbace",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "96fcf455-648f-4648-a487-917176e307d2",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "97761975-fc1d-4ce7-9d00-a91635fa2f03",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "98b36154-4b5d-4536-9cd0-62dfd09b74cb",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9b278414-59f4-4ca9-9267-ef41566a45a0",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "9b42cb4b-19f7-435f-8aea-c45b7b72ee3b",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "9cf23847-6a8f-471c-9735-6cb922a35cea",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a144faf5-2ed7-451a-a942-816481903f49",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "a33b8f19-5b9a-486e-a36c-0cda130d1e91",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a491d0cc-2ea4-4a15-803d-ce6ed806d5aa",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a5847288-ebf8-4586-8dfc-a1319a80069a",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "a6caaa0b-f804-4972-aa0c-db0422f363cc",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a89a5f49-3dc2-4d87-8c6f-3b6b57bcb5d2",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "a947245f-7c27-404e-9e9f-46b46738b966",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a9a5863d-c74d-4999-b080-8b04f3ff4848",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "aa3151f8-55c0-40fa-abca-743ef332e277",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "abc18dc7-6df4-403e-9371-e516013582c1",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "abe26d3e-155a-4acb-b3fa-9bf66488e337",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ace5da4a-8418-432c-a1c0-fce6393aaf2f",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "ad03202e-2165-4edf-a2e6-54a9380e25f4",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b300818e-80d7-41db-8498-df1aaf801308",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b3336148-2217-4fd4-aadf-fffcd0b3bfad",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b52d3fc1-5b8d-4330-8c59-199641cb0c49",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "b5684184-d0ab-497d-b782-f2b5372e6458",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b615e0fa-95af-4f07-8287-2ce007498da9",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b75df2d5-14e7-4297-b006-0b34dfe57dfa",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "be3f1d1f-0c4d-49ad-9f8b-31680f5b3a12",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "bf81e6ad-9a5d-47c3-9634-582d3c0032c3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c08ea26c-95bf-4283-8e09-ccd8520d14d2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c0e60385-e99d-4e08-8570-272a6feed7f7",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "c143bb98-1a83-4a19-9077-dd5c7ff733ba",
+    "category": "Outdoor floor",
+    "style": "Others"
+  },
+  {
+    "model_id": "c55d3867-73c7-4bab-9a35-2bf8d69bf923",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c860b291-e53c-4a8a-8bfc-dcca014972fe",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c8c9b45a-0f83-42ab-9e4a-09cc6f184cfe",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "cf441f3e-373e-44fc-a6f1-86e5c4a85024",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d047c896-16a4-4dff-bfcf-14cdb8c08258",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "d1f6f713-852a-4391-8a39-b51464b8b3af",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d4486d54-567b-4071-8a9f-3d1565887bc8",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "d7c4e4d2-e2a3-4401-9caf-2d77df575da4",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "da6ec611-d0b9-4a6c-8d24-c1423e10e07c",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dacf3245-736d-4aaa-8f55-e9edb1fd723f",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ddf81da1-6e15-4e3e-a3b0-1bd77c13ad94",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "de179938-6da6-4ab7-b159-3c0ae5203839",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dedee0bb-9984-4cf8-be76-4e250b284ede",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dee308fd-4424-4cf5-b9a2-bd75c031ac83",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e41f06e9-7c6c-4d11-8681-92a77d551c8b",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e7cc3d23-7918-4e7c-a223-2e18a6edbbbf",
+    "category": "Stone",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "e93d1eb1-9e15-455c-9dd4-d248f66bf148",
+    "category": "Others",
+    "style": "Others"
+  },
+  {
+    "model_id": "e9f0cbb6-f906-4537-b834-e9fc7e34c2e8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ea5cb6bc-8631-4d03-bb27-1833b6cf945e",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "ed30f9dc-970e-4e74-ad60-bd5a21927f59",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "ed903003-eb8f-440f-8ba2-0c8f56f5bf56",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ef850268-559b-4983-9648-b51ad816d0b5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f35ac070-be44-4a23-8b56-caf88fd101d7",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f822c033-63af-452c-9325-601b0e25cb61",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fa8fdcf1-bc26-423b-a198-e5b0407f8a3c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fcabb7ac-3152-4ce2-a5b3-80d918468b0e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fd686429-d27a-406d-9c10-5a8650a57311",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "00cc8b1d-b284-4108-a48f-a18c320a9d3a",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "0225c1dd-4a6d-490a-b74c-a621c29293c1",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "07d8b71c-733f-4f4d-b799-da924b13d40e",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "0a487706-a29a-4f7f-88ff-62365116e256",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0ee28f55-b6f1-4de6-ac13-22bfbff83478",
+    "category": "Tile",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "1066af41-8b13-42cd-8638-4072b6441868",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "11b03f6d-e451-40a4-b074-302056fd9cb3",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1b97418f-5e9b-4519-b318-5dd6c2b01f7c",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "1d0cca6e-30a9-4024-a96d-9df3ef789620",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2030bebf-581e-4d57-a049-14cde54be9a2",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "2095cbbf-f963-42e1-befe-d7f291d7da70",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2439602f-174d-444d-a6a5-f4a1181f88b6",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "255c0c7f-934c-4e2d-9a47-84d1e74598cd",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "29c59b0c-81de-4b21-b86d-e4a388d347cb",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "29ed9dfe-724e-42ca-a405-7943d6b3f850",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2a978ecd-6ac1-43a1-8ff3-ad0a79a71128",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "2b5160f3-bb27-4431-b7d6-63c0da43c5a1",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "331f7b53-18f3-498f-90ed-336da139d9f3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "346c1ee0-c95c-472d-918b-4cc556ef58de",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "37a6be50-d72d-46ae-a0b6-3f1102de6325",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "38322ec8-e896-43a6-b291-fd9d9ac6ea9a",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "3b9bf7ed-0c94-42e5-a411-2c58cb77cd33",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "3d0db1fe-52aa-4951-8ec7-77d91a27f6bb",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "3d4ddf88-81c3-417b-8701-625b780ef9c5",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3d8353a0-6fa6-42ed-a205-858d251e9251",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "400980f3-14de-42e5-b0ef-7252a1fb1716",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "41374fdb-7b5b-480f-9e8d-293486756ce6",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "42dc0627-72af-452d-b7b9-bc9dc6e9a51d",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "42dcd304-8628-4aad-87f7-44a9fcbd45c7",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "4600b1e9-28e9-43f1-ac82-8d13bc05f62a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "46bea2a0-908c-4c1b-8970-9dcc725039ce",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "47c857ed-db08-4b72-b1f3-b21166976e75",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4850f31b-a060-4f3c-9722-ab66c0da223f",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "48fede10-5d23-4c53-be99-3de42e474209",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "499d0bf5-d613-4741-accd-9efbad8a51b3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "49eeea1b-eceb-4833-9734-6f57b824153e",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4a6754ed-463e-4e33-b08f-d1cdb2d4e5ac",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4bb4db1b-e059-4209-9d45-2cd02df84c13",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4bf32e83-abaf-491b-bb37-a91baffaebc4",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "4c9bfb49-ad4d-4fed-ba7d-735270a305f7",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4e8afee0-137b-4bda-971b-0b300d3206b5",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "516c91d0-36a4-439e-ab00-3b4e1b95e2bb",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "5516da69-d9aa-4492-ad5a-59fb0fe6a664",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "589b7fb6-3dbd-4bc4-a41d-a2240a481fe5",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "5d4a44f3-a2c1-4610-8449-baa04b68779f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5e9ac99a-7762-44f7-9dcd-d2ac78e06d69",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "605587d3-3f5d-443b-a0ec-f04699f54cc4",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "60b1e543-be83-4f85-95fc-1499537e692e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "64f20f77-d66a-4785-b6a5-0ce70e51b63a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "651653be-1564-4ff5-8980-6a6ce8aad53c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "65e405cb-5620-4b53-ae87-7ad2613e00ac",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "68fe02db-db60-4826-85cf-725a797ced07",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6bdbfbd2-d6ca-45f4-bddb-9c3d93e34843",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "6c6a7d68-727a-47e6-8dcc-7e82946b6ada",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6daad6bf-2e4f-4991-8c99-dd0b6599c865",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "70668861-8cf5-4b74-8bd7-e9d61864870f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "70fb3c8f-51aa-45ef-a814-e78479e8db41",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "76b64902-af58-456d-84f6-7677d014a539",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7874df13-5d26-4e40-8ada-da10c975a6ac",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7889668b-4a99-4b9b-a12e-6a7f113ec3fb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7c2fdc94-8925-40c1-a1ea-a4d84e8faee7",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "7d1c6742-6897-47a1-ac52-338ccff6af67",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "80553ace-3f08-4a2e-860c-610c4e121c49",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "849b267c-04c4-4ef4-b216-cfabd9b23c69",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "851d213e-4a75-4876-b4de-0eed70c532f3",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "8642ccae-c292-42ce-8506-492d8bbaa987",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "87bcecf3-3e07-424a-b3a6-416619f7e5c7",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b1c7e17-65b6-489c-ae86-5830463e98ce",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b32b7d2-f482-410d-b53c-36911ecf45d9",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "925b3733-3b85-48d7-b298-67f838c32f94",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "961421b5-a66d-4238-aac5-072e27b84d16",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "986e8872-69f2-47ae-a1ff-5cede2f06f89",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "9b20f0ae-d741-4393-a57a-583fb6cba6d8",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "9ba74225-54a8-4110-b4c2-8c653019dad4",
+    "category": "Paint",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "9bc9db21-df92-4360-b2ae-f4bd3648cb6f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9ecdaab2-3af4-44a7-a7b3-9e99f0e2951d",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a24c7024-821e-48c1-b897-24c040eac946",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "a71bd87c-e050-490d-90c8-170f40ebb1c4",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a7c9fe84-4e07-45bc-9be4-6ef9acf9c444",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "a8b6530e-3b33-4a56-b51a-5f45842cb61c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a9b6976d-6de7-4583-a4d1-91769a52b5a6",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "abfff3de-a073-427b-8a0a-5a1429bdf91c",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "ac9a6e32-a139-4e8f-8156-a9e23a5551d3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ae4e2938-831e-4445-95ff-acbeceddc871",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ae52cb01-a1e5-4373-9c4e-367863c5a910",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "af142ec1-9868-42f6-b56b-eb9a76b77d8c",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "b3b0f28a-149a-41e2-867a-bd757e6e3c50",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "b4101c1a-0188-484a-9f7d-5eccfa592276",
+    "category": "Cloth",
+    "style": null
+  },
+  {
+    "model_id": "b47c3c88-da91-4086-9604-8bd4cb53e2f9",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b8117153-1c97-4e39-9ff5-f24cc2a36432",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b89912c3-33cd-4ee7-93b1-9e988d4a6358",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b9733243-846a-4180-b348-e909e7bae510",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ba545eea-2edb-436d-8f66-230a156ee0fe",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bef18197-91da-45d7-99c3-dfdf96c9c331",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "bf2ca30c-3a5f-46b4-8b2d-54e9caa86945",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c2a37b00-736b-44ff-871b-0df9f319f515",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c393d37f-3a38-4ebf-9a76-41f140a535c9",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c6ca1d3b-093f-4c89-9973-3e6f00b21257",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "cd973b24-303c-4096-88b5-73fb7425dc7a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ce448cb9-db78-4f1d-b755-47cb82818506",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "cfcc985b-3add-479f-af36-4732b34efbd5",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cfd71a88-bb97-4d72-97c1-654a80f70d13",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d2552271-f1c1-4fa5-ad07-f1192e58be1b",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d3bd5bda-567c-4818-ae1e-abedabd2f24b",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "d4b5a1d6-6329-406e-ad40-514b5c0f5729",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "d5c8d7f4-aa58-4c29-8871-e2f2b09a997b",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d80f814e-11c1-49c0-a30b-ded71208e264",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d93a3186-7a4a-438d-b1f4-71afd243f479",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d94cda00-b4da-43b7-a18c-83c68275ce9f",
+    "category": "Flooring",
+    "style": "Others"
+  },
+  {
+    "model_id": "db15a9e3-973a-4c59-b683-bf15cc19bec2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dc5c9eda-df20-4624-bf6b-b8bf465f375a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "de9924f1-b776-4f34-b9eb-ce190260a759",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "dee1b3b3-13a9-4e84-a35b-03cd23248000",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "e186d05e-d042-426c-974c-fae91524a25d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e47dc23e-16ff-4cb0-b343-05707ed97731",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e505bba5-455d-4a77-95c7-f34ac44836be",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e54d17c4-e4bb-41c4-8c64-5ba2540f4a19",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e9524414-321d-4e3d-8f6d-d466eaaf35ef",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "eaa44e1f-21f7-42f8-bf2c-a738fea9fdaf",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ed51c19e-b66d-4013-8831-d21b3848642b",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "ef1d3c03-a118-4ec5-ba0a-807a6c2c8237",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "efa08e45-a7c1-46e2-b852-452e8390391f",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "efbdc0d9-9627-46a8-be21-bcf8306a78b8",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "f1bbcb16-3303-4832-b568-5cb573d22e1e",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f5e4b6cb-bdf8-4e66-8298-f84bf7fb88cd",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "f83d2e16-d08d-4670-bfa5-804be1ab1133",
+    "category": "Wood",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "fa23cd7c-a2b0-4863-91f5-387e47ecee94",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fa448e94-3afa-494c-961e-f56c44ff3dd3",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "fd5aa4a8-9100-4b7b-9d38-13e1d712f303",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fdad3bf2-eb99-4125-a25a-1a45d85df447",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "fe7b9ab3-0046-4ade-8d63-88b69fb06901",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "feec9e9f-2cc5-4a7e-9834-f558cb8dfb61",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ff388b08-fbbf-4079-8de1-992922ddc098",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "067e0b28-aed4-4915-92dd-7df7e71ecf23",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "075dabb0-31c7-4fc5-913c-3f4830744b3c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0938719c-5ac6-4e99-a816-1d2c0a6881e8",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "0a204936-9589-48f9-91ab-b8386f0f96e0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0ad84100-a150-4d5c-985f-7b78a25806ec",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0df6c897-eca0-4523-8bab-1dffe4abaad5",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0e7f4f6a-3cd5-4bd8-b6a3-705cf2fce867",
+    "category": "Tile",
+    "style": "Ming Qing"
+  },
+  {
+    "model_id": "0e8b297b-c4d3-46ab-a977-ec8d73f1c012",
+    "category": "Wood",
+    "style": null
+  },
+  {
+    "model_id": "0fe76f12-35d6-46a7-918d-35a6f42c14fa",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1186f510-f7e3-4aa1-aa6b-216cb9fa16da",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "124657d6-ce11-408e-834b-6a821d99f868",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "15c2615f-9dfb-4578-82fe-a2410d64b5ff",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "1999a300-06d3-4fe8-9829-be382d81c807",
+    "category": null,
+    "style": "Others"
+  },
+  {
+    "model_id": "1b007e3e-d084-4007-bf0f-edc7fcd4b92b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1e2e98a3-29e7-4ff9-a38e-026c7a437c64",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2236c63e-d50e-4ada-8088-3e0a9546ee7d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2259e0df-fd0e-412e-87fe-a226d1520f28",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "273a7787-72f5-4642-b333-03d06526035b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "292c835a-11f1-491b-bf71-02573e361778",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "29783de1-63f1-4e16-995d-576bc501a1f4",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "2ac3f88a-35d1-4450-981c-277d0467d79f",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "32e8234a-48fa-4670-99c2-e40adf9ff210",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "365b194c-7e07-402a-ba4a-941231de1713",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "37fbb62e-4bda-4050-8e37-cc84db2aeaff",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3907fa37-bd8d-4de4-95e2-44ad90798777",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3920c266-e4ac-4058-b307-cc248b42839c",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3adfeca1-7853-4fa9-aec8-9ea7506a08ce",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "40af78e9-1832-48c4-a3a5-80e8da2a4946",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "40b10a62-d6ca-4ece-83d0-8f7424aa62c8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "40b3e268-cc26-4016-acd8-b695cb1f334d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "40fc0e26-1528-4b4c-870d-40dbc7bb869b",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "41787a37-a93b-4d14-a0c1-54c2fdf11524",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4298ae06-019c-4b89-a0c8-574527ede3d8",
+    "category": "Others",
+    "style": "Others"
+  },
+  {
+    "model_id": "42acc600-3b1a-43e3-9473-6f8c584e0b88",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "440315d3-a67e-4f84-aa82-8f80b43f4380",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4420915a-717f-45ea-8a07-e56ce1e9e9b0",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "445003ed-ef35-48e6-8a3f-19c08f5156ae",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "46bf31a0-8662-41d7-b8b2-dd7946da694e",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "47311840-bf98-4d9d-86e8-66dc5507c15e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4802e089-6849-47c5-8108-92d72af9ad9b",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "4a493d11-8d02-4f34-9f85-6196544ad35c",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "4bfd991a-6acc-43cc-bbd5-39b19ab06cd5",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "4cac0cd4-2225-40ba-bcad-b9003595bf88",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "50b7bd49-6128-450d-8170-d2c38779f9c1",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "587a29be-74a9-4384-a34c-42f75c9a7dbe",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5a64fe16-c685-4885-b1db-48f09283360d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5d372d40-c4b2-4522-a45c-b2ff9104c055",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5eaddf9a-c44f-49bc-a4f8-ef39ed41d3b3",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "5ec1212a-94a6-4b84-8b71-9e8f4ce74315",
+    "category": "Paint",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "638aaa54-fad3-4054-948e-d4e3084223e5",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "66852ed9-c8df-470b-854a-52e2226283b8",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "673d2aa5-a209-4919-9def-3d760508de18",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "67fe2d3e-94fb-44ad-91ef-fa892f52c355",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "693f44d4-3095-4a35-a1da-02cf9d2cfeac",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "694f50f7-4564-4f24-8f48-91238cc9cfbc",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6a98cb4e-5cf6-4e68-b72d-851c0744c959",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "6da91948-5055-47fd-8fdf-4158520b4d3c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6e7e4398-6c30-40d4-9daa-2ebdd265d9dd",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "72d878e0-048f-470d-be66-a4aecd5d1c21",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "776c866c-1327-4701-96d9-37d88a50e0ef",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7b8c2d05-bb05-46c0-ac80-954af26cb16f",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7e1704d3-1224-4583-b6ff-f0d966817af0",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "8044ec4b-3439-473b-b3bc-9315bdc8672b",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "81a9fb86-1600-4951-904b-a579ed24c3e9",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "828f13be-bb6e-4218-a3a4-8d2b3d9d0018",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "82be4537-12d1-4838-bc67-ccb2e0110645",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "87b14f21-c54a-4b5c-8e21-14ab5e8bc3bb",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "89b4c38f-3c9d-4306-8cbd-37c438ad2f1e",
+    "category": "Tile",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "8cbe39a8-1224-4841-95d7-dd69c6024bd2",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "8db189d2-441c-4351-a3ba-69ebb50a82b8",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "93acda46-7f77-4a15-8873-f8c7494da3d0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9654026d-06d8-408c-9aaf-454de738e144",
+    "category": "Flooring",
+    "style": null
+  },
+  {
+    "model_id": "9947789b-f005-4b8c-9959-f69cd71fead3",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9a026a71-1aad-4bb4-84dc-6ce782ed64ee",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9ec95994-e36d-424b-948f-035ae95aea77",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a0590a0f-0180-48ee-8148-bc6182aebeb9",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a145c441-c785-49a5-8e29-db0ef1b7bc1e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a199fef8-71f3-4c29-ac34-56dab3419636",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a59f7bd2-b528-444b-86cc-758818a10fbc",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ae8c5431-bc75-4478-9a00-af263aa8b091",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "b00da7d3-e317-4f47-a7d7-9cec408bfdf3",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "b8949a6c-d6da-4655-94d3-f5e170e70e14",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bcc776c1-b8b0-4c9a-994c-26e8cf279a74",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bd7bf713-825d-4837-b505-e4f6b15e6205",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bef94234-d8db-465f-bf38-d3947a009054",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bf9402a8-daba-46a6-9112-c33296846d9f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bfa014ba-60ea-44f8-ba57-8f3078d82a07",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c2446e38-898a-4edc-ae61-df28f53bafd2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c36dca1a-6aaf-42e6-bdc6-a6efc26c028a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c55608bf-a48e-40d7-bfa4-9b2b546f0b58",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c6ca3fb2-dba6-4d59-98d5-c61f8d15ac24",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c9065c35-0f33-4efc-ab3d-b9edab534ccc",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ce6912e2-9172-4e15-ac9f-5c786fe6bd36",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cea2bc01-5681-45ef-8fe9-fddff3474b81",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ced9015d-3f4e-4004-aa72-3cd7de91471e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d3384608-6af6-4f39-bcb7-12d467860a08",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d3ef9258-ef64-422c-b044-d76313fef78f",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "d48a1ccc-9792-4a1e-baf8-711b380011d8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d5cb1566-5cde-4264-9d52-9b46b33ae76f",
+    "category": "Tile",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "d6da7bd5-b669-4bfc-9fc7-fd8f96bcea01",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "da5b5e1f-6244-4d24-91ad-21baa2d27221",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dacf88a9-5e6e-4847-8b46-a8f7d6face9e",
+    "category": "Metal",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "dc04cd07-c050-4ac1-852e-151ba8d882b0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e480f3e2-ce49-408d-a872-e20321318463",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e4fdf96a-e0fa-4ba0-987b-db66f7b60893",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e599c0ce-a953-4e3b-964d-96da221e2535",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ea7c3b82-0265-4d57-95fc-f604e9d990e3",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "ed0dfd25-3860-435d-9a76-52e1608e3a76",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ef6add12-4f83-4cf5-b0f3-6cb2a79f96da",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "eff7d974-7f6c-4d2b-908f-df5bf9143093",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "f1b67ab5-a7b7-4d29-90fa-69a929eb41a8",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f50f3070-d0c8-40c2-9143-232064404e2c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f616d9b1-5866-4e3f-a725-27d9b811b762",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "faf7403f-688b-4150-883e-c477e77379d9",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "018b803f-baf5-4c62-ae6d-7588e6cb94f3",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "01b9a5f7-a92c-45c2-8d60-a20342addbfb",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "02f59b16-3c5e-4458-bb69-4fb84b239648",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "04bf2982-dc8f-496e-a36f-082aeffab514",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "069502c6-828a-46d6-ad0d-aa9fa5fde54e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0cbff208-8540-4fd4-89dc-5d1e871f7fec",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0f6609e7-5de2-4484-8e8f-44ee98f5e0d4",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "12760d33-78a1-4e4d-a73c-adb28704de32",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "127993b9-54ee-43ec-8999-0baa0f9f5792",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1444dd20-5191-4536-be35-d20b2af257aa",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "14a59652-d3af-4916-9704-613f8b594e7d",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "1638ae8f-6d29-465f-8ac5-fc4f0efaf172",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "17540181-8d10-48b8-99da-d66db99eb37d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "17dddeaa-dba5-4082-bd3f-197bb33d8bbf",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1d847d7d-4dd7-422e-901d-c55b079ac575",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "2188f865-443c-43cc-bdcd-3be740950e7a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "26731d71-5b58-4898-91a1-8a70d6ae9fca",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "288bb275-d00f-4638-a6bd-81f578299c32",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "2c7e5727-8d33-4487-812c-0cd73c1a29f7",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "2c898f74-aada-4dbd-89e7-c57225baf77c",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2e3e2417-67d2-416f-b256-8c9a478c10aa",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2ef97af8-53c5-4d28-b022-0e079de6bb09",
+    "category": "Wallpaper",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "3327b444-7f63-47ab-ad47-9c34216f4090",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "3347c0cb-a081-4f93-b8e0-240994e120cc",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "33b4413b-4de4-4f1d-96e8-29afd7980801",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "35e0aaf8-e8f2-4fba-b3b2-b59fc197695c",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "365a6d6a-74df-4d16-bb33-48bf1bd6e39b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "37caee34-74ea-46cf-b16e-f6a93b6019b9",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "389adcea-5035-4cac-bf9a-f22a8336a866",
+    "category": "Wallpaper",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3beb24c3-7a31-4954-8f64-64c01b9f5c6d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3c5b5712-736b-4229-9468-c0d12999f1ab",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3fc412b5-4d63-4c35-8fd8-3f6399f07539",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "41046427-29e8-4672-88c9-3ecb1b431b37",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4273a4dc-64d9-4a6d-aa16-f182acade5e6",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "438ea7fa-5b43-4c6e-b7cd-3a959af271b6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "469e7393-7bc6-4cec-95a5-60652e8ed815",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "486ec83f-0fc4-47f8-a9e7-ad03f571d7be",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4da0bfce-8c9a-495b-881d-9b09b8e45314",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4e3ea8a0-9add-4934-99f8-b3bebc804e12",
+    "category": "Wallpaper",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "4ead86c3-b4ba-467b-9e31-45e413ffc206",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "501578ed-2b4f-4a0a-8f6e-dc037272efcc",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "50935abc-e186-4045-952e-0f28ed9bdfda",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "50f21541-f789-43d4-ab14-d1f0b0a4bc4d",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "53acac09-c5b1-4278-a5cc-6e36fc2731a7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "54feb80a-a702-4613-b7f1-ee0147463459",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "582e028e-9b4c-45fd-b8e2-e79dfd36b52f",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "58d034ab-935d-49a9-ad47-cd946cb72b39",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "58e55b31-4861-4e18-b216-cfd922aacff0",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "5eece584-71cb-43d8-935a-f65bf728ba09",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "61e58fa7-a57e-4bfe-a441-d69ca7cb7e92",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "626d2c8f-ef1c-402f-b5ba-97b6df948709",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6e01083c-61a8-45c8-b0d5-fa01fa39da81",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6e4b9cfc-646b-4f57-adf0-7f7370002b44",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6e67cecb-5d79-4c8e-9d2a-bdebc05c0b92",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "6f5e1dd0-666e-47fb-a6f5-8123f4af9dd1",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6f85a313-e6e6-42eb-afb6-654e6ba7e654",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "74abd4d3-56b9-48f7-b083-b57e96c02230",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "778d9560-786c-4c78-a6de-2b0c6a33e4b8",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "792de650-f961-41b0-a773-4e04ccb5518f",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "7a3396b6-f9de-462e-b398-d061665c2bc1",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7b1db6d8-fa9e-4028-ae86-5b87e98a127b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7ba93bb4-a39d-49eb-b161-9cc726560341",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7ca08629-0174-45b2-a132-f304527dad8d",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "7cfb7335-0149-40de-9481-b5a71d264b1f",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "7e0baca2-9b57-4e60-8c89-686ec7b93d11",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7fafb9ca-0a6c-4790-9ce5-82ecca08e93e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "867fe753-56cc-4d84-901a-04bcc567cfff",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "87b084e3-9817-4f3f-a7aa-ba4c29e0e29b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8c35c598-d3f1-49f0-9a5c-b38fd6dc00af",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9003b760-7759-4c13-850a-6477bcbf8cef",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "913e6775-7e6e-45ea-ba43-9f2e679526ea",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "919e2dcf-9133-4197-9322-e105823b522d",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9323e557-95cf-4718-bcbc-0b026d81f9a5",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "938a867e-5c28-4d4a-97f5-ce1abf0c0843",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "995c2f24-ad03-4744-bffc-dc7700d08fa9",
+    "category": "Cloth",
+    "style": "Korean"
+  },
+  {
+    "model_id": "9b67f500-4e03-4667-8649-6c9cfcd7f69f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9c02c8f7-468a-4bec-9a60-dd247ea56edf",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "9d1fe990-087c-4acc-bbba-60c90676d508",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "9ebee228-3d99-429c-9f08-e736f12b481f",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "9ed05a20-ff4b-4a44-bece-e095ba65d28b",
+    "category": "Wallpaper",
+    "style": null
+  },
+  {
+    "model_id": "a007455c-7027-4ee9-820f-6f53b2667702",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a1543df0-d183-45bc-9814-9bf463f7caed",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a23b9736-46fc-41f5-a436-5899290b7a72",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a655fd91-a360-4405-b918-449c83e89bf6",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a72296aa-42e7-4a28-9472-92c85af82069",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "a900f6ea-f48e-48ba-a9a0-739ed4db18f6",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "ad34eeae-4173-4db6-bbba-b3e9cfb12c97",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "aed14ee8-4e44-4a2b-83c0-9896c398435a",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b1249c13-4709-44cc-8237-f759aecf2db5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b25af8e8-c71d-4029-99ed-cbc2ae2ef36a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b34aaf7e-5215-4203-911c-e77ebfb1d385",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b45f2ec8-7404-4f03-a79b-85b5fc474625",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b7219b31-168e-45a8-ac3b-761316811eff",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b955d168-01cc-498d-946e-ca63ab11e973",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bb267e26-28d3-4894-aa5f-f9ea55b9cace",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "beab7430-7f65-46ec-8a19-0c13b4c7e86f",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "bec603b3-7e01-4031-9111-8158030d1e9b",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c1826cc5-82e9-46c5-9cb5-c10b89ceaa16",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c192a957-6b30-493d-bbdc-4eca9f97cb3c",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "c1fab91d-ebc4-4a9b-adb9-0d4d5ef8f06b",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c665ee2a-233c-4ded-b500-f36ed222d06b",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c9eb4cad-79d1-4942-a3f9-6a24e2ce000d",
+    "category": "Wallpaper",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "ca8a90a2-2c5d-4b71-9495-434c09867f83",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "cb77b4d3-0d04-41e7-9769-9c3d5e480d37",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cbaab5f5-78f8-4232-afb7-3b9c2b51e568",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ce55949b-4e27-42a4-8643-112f10872891",
+    "category": "Others",
+    "style": "Others"
+  },
+  {
+    "model_id": "d0d7c6c4-72b6-4c66-8fbd-fe59bb65e43a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d1f5138b-04b5-45ef-b6ca-1f0661beb5aa",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d36d0787-d9a1-470c-b01c-0ccc19663837",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "d3a3e9e4-df4a-4680-9769-89628fd524e4",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d3eaef1f-817e-4f82-a597-acbdc1246ed5",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d898925c-6122-420e-9177-26566c5a8c6e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "daa01507-4a3c-4975-9699-6f664729a7fd",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "daf408f2-60ab-4e9f-829e-ceff768b0b1a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "e89a2340-6bad-4ea6-8257-76066d3bdf32",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "eadc8ae3-2f58-4382-8009-3b56adbbccd2",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "ed1120f8-f3e6-4869-8bcf-096e2dc9b010",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "ed9d85d6-73ce-4b36-9775-7b3d947fa6b3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "eda1ac1d-6ad9-4997-807d-48f621be1d01",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f04e22d8-ac5c-489d-bb0a-b821ac8ed6fb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f0dc08ed-b882-42fd-9259-eada1691e2f1",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "f119e55e-b09f-4e85-b792-08af336d5a99",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "f225388c-768b-48ca-941d-4940189469f0",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "f368f3d3-10bc-46c0-a836-c5ed31a4a032",
+    "category": "Tile",
+    "style": "Southeast Asia"
+  },
+  {
+    "model_id": "f4ffdc13-bc99-483f-b53c-f642c3d81aab",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f6de9a15-bcfc-4a6f-a41e-99f2eeb95176",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f8aaa9f7-4bb6-474f-ac41-16856d998e9c",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "fa1ea94c-8360-4694-8501-8dd31d5a1998",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "fa1f2e70-5353-4d58-a177-4a0a0d1b13e1",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "fb5d5c15-49d4-4562-a771-8adbc6489577",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fc3fa5ed-051e-42e8-9137-305fe0fe3fb5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fcef3a7a-8307-4098-a07c-79ea9184e203",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "fdf34bee-e33d-4059-95ea-93e8db75d552",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0076409c-980f-4395-9032-164ac2fe1601",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "0141d37c-ee71-4d33-b559-92a48f5110ce",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0177c170-b0cd-4ddc-88a7-58b5c4b69bad",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "02554923-9688-4092-8e9e-5cd5fac541f1",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0425f8bf-f430-49b1-92c2-89e7e851c629",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "04634993-33ed-4c14-90ae-4e81bfdbf4b8",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "04a357a4-3392-4460-a309-41fca24c11c4",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "05b41621-0cf4-421b-96cb-9104e0cddd09",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0ab02c08-9192-4075-91d9-cfaa14960f76",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0b27cf0c-23bd-4eff-af12-ff1b5845e0fc",
+    "category": "Flooring",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "0b3653b4-8e36-4b16-a01b-7505251c66ae",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "101f5017-1415-4a27-8cb8-0f48cf43c732",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "136e774f-c854-4bc4-bcac-70f30b9fa96c",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "151744f2-1793-45ef-b904-7ade215b262c",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "15f105a2-51fe-4700-bc0a-bd9e68de2c1b",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "161b3afd-0a22-45a9-9fca-1108534cb553",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "16b9e0f1-6943-4369-a642-ff9e06cef1e3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "176d7e59-cca6-4c23-b659-10291348669b",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1893ed32-fedc-4a25-9a97-f38c5a70a4f2",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "199f60c4-2d0a-492a-8e01-4ec174a55066",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1abfe8bb-8951-4f9c-93c4-6cda977f56e4",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "1b57700d-f41b-4ac7-a31a-870544c3d608",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1b73a372-c169-42ad-b2d5-6a86c6a547ca",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1b7e5ceb-c4c9-4f8e-9622-d1aa81d12104",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "1e8ffb43-e147-4bfc-a350-5b023b50a616",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "1f504cb4-70f8-4bb0-8602-9009d0c81e9e",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "24b872a7-36b5-4c17-b115-ccc35c90b6d2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "26eb5edd-291e-4f50-9035-8524ff022df2",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "2a2fa082-fba8-4fe0-ab57-24a7bb38e2fa",
+    "category": "Tile",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "2ce25ed0-b54b-4964-8004-7aa2b362e06e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2d1bd58e-1d62-40a9-b6a2-80f7d5dc3176",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2ea87ee7-f6f7-4106-9186-96ec8fcd8a0c",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "2ff0d43b-2a84-4207-a995-002199a5bca8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "306a4160-c4f3-4145-ad38-d36479c05b20",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "3079d3ee-a3c3-49af-98ef-bd373a3b9834",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "311cc3bc-cf90-45c5-ac4a-b5f2cc056ae7",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "31c7f401-09bd-45a1-b4fa-899e92fb1ffd",
+    "category": "Outdoor floor",
+    "style": "Others"
+  },
+  {
+    "model_id": "31fb485b-7a86-4ea8-b6a0-7e508dacc2aa",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "34900c30-b449-447e-8f69-386201cc476e",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "36fcb2a8-ae0c-4316-ba83-8fbcfc5f72b5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "388466f5-6b8a-4e5a-ac3e-8459ff75942c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3a7d8251-2ecb-452b-8e49-ed2012466493",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3caab03f-e3ed-48ac-8c3e-22c855d3a5fd",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3eaa9f98-a6c9-44c1-b600-74d8e8b1f8af",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3eaf31cf-0a85-48cc-b8ce-f466ee3b318e",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "403887de-c635-4d42-b234-a9d0f6817263",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "4133a711-ae55-48e9-a1b8-40f8459da733",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "43481905-5bf1-4953-a1de-60249ec0627a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "43cd6f79-6d9b-4e36-b7d5-58ef0f7735e8",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "4412349c-df23-4f8a-8691-b8a20bee827a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "462137a2-813e-43a4-b9d7-5e92e20bbe00",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "46e9727d-b0a1-4639-8cf2-40f43c233e42",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "49e7d427-0781-43be-95ff-54a4104bfcef",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4b6d5640-b27b-45d1-8310-ad236b01beeb",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "4cbbfa81-0067-4f97-babc-9352e78eb90e",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "4f73e9a6-70dc-4a07-97e5-7c6d6d25bd3a",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "50689b9e-4b5a-4eb2-a425-269a347aead9",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "55d18b9c-47c1-46ce-97a3-2b2d1527afad",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "56181633-be6b-433e-b982-35d6c4dc228f",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "56daecc2-b454-4ab6-83ff-ed66698789ec",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "583de8ec-5f99-4b99-8749-f0fb13f8d1e2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5c479965-7b51-4215-8d61-806d9f359de0",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5e928fd0-0f43-4245-ae52-e2a75defb6f4",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5e9e00f7-2c4d-412f-9f83-76be270d13ce",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "603fcc8b-ec4f-401a-825d-7095ed11b16b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "61ba65d6-516e-4278-b0d5-8a0401c89e9a",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "64014496-95c8-4533-a8fd-61a18caf6ed3",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "643e1660-d436-4e1a-a8b2-10912d9798fc",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "64a3c091-7be2-4974-b10a-72cfe7fe6571",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6a14b2aa-1e20-4bac-bd6f-7454014be61a",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "6a85fea7-a531-4ac0-b2ed-696d81aab2b3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7014bae1-115c-482e-9708-8719973d1aea",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "70495866-9f1f-41f4-9599-be2a1d750e4a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "750c37a9-87cc-48d1-8e3c-dccc76a76132",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7510da98-67a6-41fc-974d-bbffa4db5b8c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7752087f-990f-4859-b314-205c07fd646d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7a1229c6-2a02-438d-9566-6ad66e1b3d6c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7a16d65d-4458-4891-8352-63e590a2c595",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "7b079275-7b53-48cb-8f4e-0ac28868bd1a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7d6bcf8c-cad8-4b27-b364-d3f237cb410b",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "7e148f1b-79d6-4191-aae2-0a335985370f",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "821c4245-f5e0-4b1a-b724-4e9264d0f613",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "82735e45-3491-4d96-8ba6-1a2a156b96d9",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "833913b3-1518-42d7-84f3-7c221057a658",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "89172409-285a-44a5-b522-fd83ff11ac54",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8976cd55-9569-4956-a779-40228bbda066",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b8352e4-2b03-462a-91dd-b3da1dc305ad",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "8e013bc3-2931-4e33-b905-e2b7f5b639a9",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9252e884-43a8-4454-904c-a86e0a7ac23a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "92e87f8e-aaa8-4ac9-83a7-15bad872daf2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "96f1c242-25a2-4160-b0d0-78766ea7355d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9db55800-1dd6-4165-bd2b-b1dd0ecd55ae",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9e1cccbd-831e-400f-b58d-7e953e9c0baa",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "9f0aa777-e3d2-4095-8520-e21eccfb7118",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "a1c4b244-3e40-4659-b083-0b013745c72e",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a31c3ee1-4d6a-42f2-9b44-e62fdbc78c05",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a365f50d-4f33-4c84-9674-53e9b7371b51",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "a80c3d3d-cb34-45aa-b54f-c6c640f169db",
+    "category": "Others",
+    "style": "Others"
+  },
+  {
+    "model_id": "a8f1f3b6-35fe-4217-a6a6-fc1f78684ef2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a930263d-f3ec-44ff-9703-6766fcf9b40b",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "aa65f427-a189-41f8-a171-fb42b3b66643",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "ab3c7368-91c9-493e-acd4-bbc3678ecaf6",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b491721c-f36a-4b89-987e-6cef9a1fdeb8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b63bb1eb-18ad-4557-9da2-c9cda5618155",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "bbb32bc9-5a89-480a-afaa-e27106043e8a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "c0fd3d26-06ef-4439-b97c-14917d7e2dde",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "c8065b81-b5ce-4e8f-8f67-f05dadb5e12b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c909506b-1e15-4897-b2b4-3f9b91a9310f",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cb2304c4-66e8-43f5-a566-f615c324b384",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ceebbfe8-2458-45f4-ae4a-99c51cfaafab",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "d0ea8315-83e3-4319-b154-81369acbdf0e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d1fb54c1-8605-4770-9dd0-fd9bd5401d83",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d21bca08-b05d-4d42-89b5-c0b528224bb6",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d2f34f64-9b45-4c27-8139-e2ae429174a2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d3ff47c4-e6e6-43d0-a328-114f1be0c379",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "d4913195-ad02-487e-98ee-1542d1ab78a9",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "d79c989d-8e78-4e89-8d25-904b2152d6c4",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d85a2311-fc1e-4387-9042-2ad9d0ae5e9a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d85ea426-4775-456a-9cf9-4beef1380b55",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ddc6c9ad-489c-4d39-833a-54163fca6193",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "de8ecf34-3f78-4fae-bde8-6c1c1336d890",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e18370c7-1e51-4ca5-b426-52d3a6b90d35",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e18b1b6a-289b-49dd-9238-ef51f6e8ed22",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "e1c37363-64f8-4eb0-a76b-542ec8067575",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "e3a2b906-0f94-44ec-87d2-d255b11d9526",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e3e85370-f066-4278-a2c0-759d18eab5ff",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e41c8daa-4d88-4087-a2a7-286e6c1c3e07",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e94fedd5-bc69-4dd4-89dd-dd6ae10b44d7",
+    "category": "Metal",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "ea72c113-cfff-465e-b178-22b75d4c0634",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "eb952753-41fe-4b8a-bc89-8dd669f00c03",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f031f25c-17e5-48a1-835a-11bf8b36d454",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "f1d1501f-42b9-4a48-b5c7-4b41407b2edc",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "f2c4cd74-3589-4226-b72d-01cf285cbec1",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "f2f6fbe7-0b06-4fe4-ab2b-af2a51c1cd20",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f32878af-d0c7-4f90-8fbf-dae6aad3a88d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f33caa44-8d36-4383-9b96-4999db622eae",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f4263256-16ba-4c57-aecf-77a92948b63a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f779cf5a-3e58-4088-bffd-87146959519c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "fb3456be-fbf3-499d-b863-a8523de88829",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "fbb07987-016d-4fa7-8175-ff07c24be79e",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "fbc6907d-f816-4365-9662-0b780f9dc66c",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "fdaf7134-09cc-4be4-a57e-43603450bdf6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "00071f66-5122-4347-a389-ea41c3871582",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "0041ed1c-1f20-4efc-9319-1ad623266317",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "004f9313-6cb7-4702-a920-18487f010d22",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "015d63ab-b12b-46c4-88cd-0617c2272ee9",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "0249398c-9c98-491e-bd19-f2d1f5885f02",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "028d9150-f7a2-4053-bd9c-fda3d652707c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "02e5f112-2d55-471a-a5ea-faba63a06604",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "046a0e72-415b-4f17-a5a9-51f3ce32292f",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "09104eff-e583-4e41-ba9b-4bd7b9de5c21",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "100fa4eb-8c0d-4174-b079-f237a8faeea2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "14170f6f-253c-433e-99f5-d110347619af",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "15710129-5a74-4d97-9814-2e4cf24f0540",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "17e6c462-a4d1-4b5b-921a-df6dd73f8e34",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1a6be2e8-7a15-4099-901a-f3fb154c3cfd",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "1c2f399b-e912-4148-85c6-bdc4564ea47e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1e61be52-3828-4dfc-a7c1-e943f263c153",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "209c560e-045f-44e0-9897-25f55f93f7fd",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "21b3b7cc-015a-4e47-b67b-44d5439e3f0a",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "223edee6-6eb7-4ba0-bff0-8041563e1323",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2240d3db-e92f-4158-8ec7-35a415d3bae7",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "25e91665-bc86-4cca-9dad-2a5eb0767467",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "26c55a7b-3001-4033-8c92-15e78e5b5a9c",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "28fe7f7d-f82f-4eac-bbab-ef2572c2152e",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2931a3fb-caa9-48f1-a809-a35952840d25",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "2938eb63-f8ea-47e0-94ca-8de323c2bc43",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2b21f187-31ff-4ba3-948e-d1a54fefbf74",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "2ce889be-492d-40c5-91eb-e42795799776",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2eaf423e-2716-444c-a969-ff5a633d14a7",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "2f8210e7-1ba1-4e80-9a79-49a7daf25c9a",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "34b22b47-cd21-4c9d-ba48-2c02f2376670",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "35bdd783-f997-408b-b8c2-5a54d2024e15",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "38417ffa-4eb2-4904-952b-41744855b23b",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "386b7863-30bd-4ff4-9733-ca8852120fb6",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "39d13620-1ca5-43ea-9c91-d9c20d2224c2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3b2fb16d-bd76-4a04-bdac-74c745cf0143",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3bf3e7f9-1f84-49cc-be90-b40f68cf7cca",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3c1cd420-d70a-4b74-9d16-c48e3e222fc2",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3f2f4d06-1555-40f3-bc67-95f382c0242e",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "408883a1-ceb4-4ee2-ba3b-024e6c8408d7",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "410e96fd-e741-48f7-bf17-7a6f1cd59bfe",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "41c14c42-a839-49f4-9463-e2e4764fba70",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4286b3a3-322e-4cf0-9eaa-e916bc7c9fb5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "46f4f7e9-cbf5-441e-be1a-76b48abfbc46",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "49cc60d6-04ef-4e9f-84cb-314dbc591ba4",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4dc4de71-3356-49a9-ace3-e4c338517a3d",
+    "category": "Cloth",
+    "style": null
+  },
+  {
+    "model_id": "4eda20e3-1d71-4efe-9eae-0538fd81ff67",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4f384de2-fe66-413e-854c-56aa90f60594",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "51411a6d-d0fa-466b-8581-37b5c5304fa7",
+    "category": "Cloth",
+    "style": null
+  },
+  {
+    "model_id": "519cb0fa-1473-4579-ac62-5c521a9f8a4c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "529bfe2c-0bca-4c5c-b87b-79588c35ee25",
+    "category": "Tile",
+    "style": "Southeast Asia"
+  },
+  {
+    "model_id": "53712216-b9b1-4f30-80b9-3daa43b5668f",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "549127e9-54f3-45e1-8f81-fba0d5745bd5",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "560f5437-7386-404a-a8be-997509c9cf31",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "56f2da89-21a9-484a-a10f-135c28e3bee3",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "59c3db9b-2826-4ff7-9260-df918f4acc43",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5a5c853d-b3d0-4c83-99ab-4419507d2144",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5f76ea6c-d828-4477-9091-88b5b721c6d3",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6020c772-66c2-4b10-b57a-0cbd2442d26e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "60470163-5926-40a6-819e-bebb1d226b0a",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "61d07e20-9156-4340-ae71-54de9be9b3c4",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "64486d3a-ac78-478c-a98d-14a396a73784",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "67319bf2-4a04-40cc-abd1-59574f2fb417",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "67923108-9c68-47ad-b79a-7bc0fd44e7c2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7092f26f-c723-4e98-875b-e3b771d92f59",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "730dc139-6e48-4eff-aa17-08261c846a42",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7666c607-f7f1-443d-b9eb-97f8ccca5112",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "7b714cdf-d4b1-488c-b109-a5c0ecf71e73",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7d6cbf58-9fa9-49a7-b234-ea805ab536c6",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "84c97122-9a1d-48b9-8011-e36101f025ee",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "86019065-178e-4db8-b2ac-4b3a0e81628b",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "86b33cf7-1c0d-4472-ae75-08fa05ee3402",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "88165236-d1c6-4a90-8397-5e9533344a7f",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "88a3b8d3-b432-4e5d-b95a-6f63f71e5461",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "8ba64f9a-317b-4bee-b120-f85d2e434de2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "929570f5-1bbd-4d8f-84bd-5a0ef1c414c4",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "95195001-d5c6-43ca-b529-80ecc037b333",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "97ca1b86-0d6d-4313-8d23-24fdf059fd09",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9d42b52b-78f1-406e-8e85-b3fddb06dd60",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9e30e621-da02-4dff-b465-3b70f285f431",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "a0091cff-bd8f-4476-a033-6ec8ff25252a",
+    "category": "Wallpaper",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "a0cacbbe-ec20-403c-986b-42b2764f352d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a0f1053e-3f61-454a-8f66-2213088da61a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a1fe90f8-5b28-45f0-aff2-cd78bf41c803",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a20c8757-ca9f-4150-957b-a49c68e92ae3",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "a4951b97-d29d-4e89-a77f-c53c24805f2c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a4c33180-043e-4c60-a223-6bbd406b31d0",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a4e973a8-7342-45ad-ab28-268d6c984d5d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a527453c-360b-4fff-a4b3-43a54c045f53",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a63ce011-22f7-412b-90fe-1c78d07e5509",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a8593ba5-80b1-4579-89f9-170310d27628",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "accee3f6-58de-4cf6-b4c7-353dac321fe5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ad72a075-e3af-4401-9943-564cc6c9b8cb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b17eda83-0afe-4b8a-81ed-10393e3a1ba3",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b2ae9627-0008-4dbf-8f76-2dc53526bbea",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b4d6ee06-1c17-4f0a-a090-3958a0854b69",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "b5454080-cb84-416f-989c-7a51bc31ebfb",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b6f62447-ab9f-495b-86f9-3a39b6a1e36c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ba042bff-b9fb-4b43-81fe-2aa6a421966b",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "badca178-f12d-4b5e-81bb-2022becd3d94",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bbf64990-33c8-4d3d-b8ce-4ef62e8c82e0",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "bc476b2f-0da9-430d-b7b6-d579220dfb8a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bd17f49d-577a-46b9-846d-ade4eee6b18e",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "be31a6ba-7abd-4545-b26c-0020e3b68135",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c0fcbd2d-df5b-4293-bd57-c78a42acf494",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c71ed0e3-c83c-42ff-88d7-15fe1f71d0ed",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c74de2fa-5a09-4a90-bae2-1775fd92b2f3",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "d0cfdcaf-cd76-4a1d-8300-d75e2aa9c98e",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "d50770ca-e423-429e-8613-ba66e7b411e0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d631cd61-fbd8-4ce8-ae6d-72f870458e20",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d7788238-aa47-4e28-9845-3c4047fed636",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "d793ed9e-e1ba-483c-acba-b27d8759182f",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d97e2bbc-e188-4022-89b8-cdc2357ff44e",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "dbaddc6c-0b88-4e23-afef-8cea1c68c6d8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ddb62a53-4f4f-478d-b538-0e9a2301d6f7",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "de3e37bb-3c29-4b64-832a-73508ef40f07",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "e4499185-3348-44ca-b7e1-d9ecd3b1976c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e48f0e67-3978-4e37-b268-3c15eecd545d",
+    "category": "Others",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e551f18f-05f2-43d4-af5c-a0739f627a5a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "e6c7777a-7e81-425a-a60b-d12435097b89",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "e786556f-05fa-4a17-9aff-a4a28e1ed823",
+    "category": "Paint",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "e8554c2a-ee5a-4895-a92f-3ed5e18c1b10",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "eab3ab33-8539-4a8f-be0a-367707213631",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "eb7b50ed-a570-43d1-af8f-73e45da78329",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ebd74c0b-a387-4337-86f3-3134e9d03a26",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "ecf5944f-27d3-47d0-b198-e6844e7dc8ad",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "efe1fd9a-f230-46f5-9edc-ba25c8a17bdf",
+    "category": "Flooring",
+    "style": null
+  },
+  {
+    "model_id": "f1afd05d-e20a-4965-8c6a-fed6407f5208",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "f1da6de1-fcd4-4819-b6af-50300b67aed5",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "f51fc837-3e81-491d-85c0-281d82821fea",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f708132f-abc2-4095-8685-183476493db9",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ff5c3f2b-e566-499e-813c-1b0ac99d9308",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "01ee533b-73d6-46ca-a59c-d67850bf99b9",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0294d2a6-e461-4900-886f-9d6bdd92a07c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "03bf1e30-5747-4bed-866d-fecae042c206",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "061b0fd4-a1ce-47b9-9dd9-af01ab9c5c82",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "07a1ee75-456d-4ed7-8e35-860c50b1bb24",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "0b48b46d-4f0b-418d-bde6-30ca302288e6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0e376134-522a-43ec-a34b-41ba278c1e0e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0e82aa00-0862-4644-b530-ee3cb3658b6f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "107aed6b-fed0-4b19-8c79-f77e48ad8c36",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "11830ab9-2d29-4cc6-a753-fd2c3b18a53e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "125bd665-b515-47db-93ea-724c6750df9a",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "12ab3d3c-3596-4cc5-bd98-03ec2174ef06",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "13bc79c4-c698-4352-90ee-ab0583a92c41",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "14755d83-a579-425b-a2aa-99d41c3c51d5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "14ba3ebe-6200-4140-90f7-fb6153cb8d8d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "154b4ba3-5425-42fb-88d2-8bbfc3b0d3da",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "1639f229-670f-4928-9785-a8628cf3e594",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "18471785-f902-48ec-a810-be917adee401",
+    "category": "Wallpaper",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "198b1c9a-3ccf-4d2a-ae56-eac7472ec24a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1b3229f4-ae88-40a1-9cd5-46741217879c",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "1c480fcc-f0b2-4828-b863-f6d0f826aa3d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1d8ca4e8-bba9-46b4-a31a-eabfc3853c2e",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "1e4a9292-837c-44ec-a990-751f203236d9",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "1efcc82f-926b-4660-aa4f-98628f41b570",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "1f0261dd-2313-41a0-bea1-f6b357265eb5",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "20a039cd-8286-4135-80cf-5822bdf93888",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "22d08e68-3eda-48d0-8b51-c9f05e9a989b",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "245748f8-49c3-4498-9a13-c69a172d5c4c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "25662cbc-fe90-40c2-8fd8-06f53e447954",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "266bd750-7785-44f1-a517-438c7b55c8a7",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "26f4c67f-9354-454b-bc02-ad7cefde5545",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "28db7d9b-481e-40f2-b551-7b032bd148f2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "28fa49f2-b4e2-45e7-a2df-2d4dded726a7",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2cb92928-3c11-4c4d-a4fd-320da5a4f375",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2cc79bbb-0932-40e5-a3f8-ebcddff9e82f",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "2eebdfee-0827-467d-ac4d-d2f97c50548e",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "30edf18d-2792-4e99-af73-a6c4d4c1b735",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "360887e6-bb84-4c1e-892c-13b1c1b3f95b",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "36def176-5cac-47d9-9844-0328833ff4a5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "394eb5f9-fdff-46de-b0fe-8e59086056d7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3a6ffe8d-2b50-4dd8-96af-b247401bcf18",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3bf2ad3a-a5a6-4107-be63-2ff8b36d30f4",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3c51bf80-6d14-4545-8693-4b9dd9884313",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "3cce851d-1e62-487f-984e-77b16373c4b8",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "3e25af81-cd13-4f83-b204-abe48c0d244f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3f4f3a45-f0b3-41e5-801f-2306e506734e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "408c9db8-1ac3-4c8c-9fda-890db45d2f66",
+    "category": "Wallpaper",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "40cd8e1f-3df6-4fc2-b716-3e42aa1ca6e1",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4237586c-e27c-4dbc-a3e7-bd7d08d0f20e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "437a05ce-bac8-4855-b7e4-b09c7a154722",
+    "category": null,
+    "style": "Others"
+  },
+  {
+    "model_id": "4c44f551-7b32-4da6-8064-630ad6a89f7e",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "4c6fb6af-1789-4f66-8c8f-aebf52fc34d2",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "4c86a8bc-46bb-4355-bfc9-2e90e09a9d4a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4c876bf9-cade-48a1-b27b-18104664d8ad",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4d7aa84f-b53c-4bfd-a1ba-b20564888af5",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "4de3e80b-1643-4dd4-8530-4138e23f10c2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4ff972d4-b2df-4ab3-acac-c8b50b8a4754",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "555353d5-94a9-48ca-bc11-cf833442e88b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5556526d-44f2-4fea-bbc9-000bed99b86b",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "555e62cb-6b3d-4b52-b9ed-9776cad213c7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "55bc8d1d-439d-4007-a82b-187af8b93fd4",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "57bd8162-7106-4278-9942-9d51d10c5ea6",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "59057dd8-d74c-4f80-93db-d3a8a4278f5a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "595222e7-dc6e-4cc9-a966-2e0fe7ebd6f0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "59dc8612-3048-4eb8-bd26-cd19ff037ff8",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "5ae92aa1-a984-48ea-b544-425ed58dc713",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5b20eccb-e8df-406b-918b-a8c380d41d6e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "5d6fec5c-6ba7-41e3-8a5e-a240158d9cba",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5f30c202-6f26-4f98-a852-008cd2763616",
+    "category": "Wallpaper",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "5f888ddf-cd1d-4b1e-bd04-362854c20582",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6182d86c-69a2-421d-95b5-f002dc28778a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "646e418b-ea21-4870-b900-35bcfe4a3fdc",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "65058b45-59c5-443c-8958-13cb5ca14958",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "69b4d482-9f77-4a5f-9052-157b7f1f984d",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6b40c83c-8bb2-4450-bd7c-cd268a3344f6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6b6b144d-035a-443e-9b74-12ccd8d53708",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "6c502abd-9f81-4ba7-9fa2-ff124074af53",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6caa5ff5-fd7a-4e41-b537-307026b7d834",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6cfb9d3c-ad26-4f71-82dc-69114a8f0082",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6daeb126-042d-4874-9719-ebb28abc0fc1",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6dd4e6c0-24c5-4ccc-b293-e2f7586936b0",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "71439ce0-fd9f-473c-ac14-bd1a1ecba7de",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "72a74e06-465f-4cdb-9d33-05740cbd2fc2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "742494ee-edf5-4165-956e-e5c6948e565b",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "74722b6c-c11c-4c29-9fb6-f24bb52aa867",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "761c19c8-c794-4023-9d8c-2bbc2ed8c3b1",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "78434cc9-ee3d-4ae4-9e05-adf45476683a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "79c79c54-68b0-4454-ab94-bc621797cfa3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7c35f77c-0901-4600-bc3b-d98b5727f0b1",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7cd47052-1da1-433e-b7e7-39b00bca2880",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7d60ff6d-34d1-4f05-b0bc-6a1e60cae331",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "7ddd9ded-c951-474a-a557-20dd1026d735",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "7deb07b9-b041-48c0-9ce7-4c8e399916cf",
+    "category": "Paint",
+    "style": null
+  },
+  {
+    "model_id": "7ea3ad3c-9fa1-43e4-944c-680ca56bdb39",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "804bfe7b-1bf8-471a-9d17-84600b0d8918",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "83c012b2-be39-4588-a865-69dbc1b530e6",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "85312d1c-94aa-4f00-a840-ab51c4c16474",
+    "category": "Paint",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "8622ea72-902d-4c04-ba66-67d3f240fc6d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "895a8906-91fe-4ae6-881d-55f5cc2ce22b",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "8b8de78f-87e0-4c61-a670-50957fee69c3",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b8e49a3-faba-493a-8018-92f9ae71233c",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "8c0a07b9-bbc2-4703-906f-61d329f323da",
+    "category": "Paint",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "8c3b32e1-d22c-49c7-936a-01cd6f262d17",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "8d67aeb5-13bb-4393-a760-1f586449b9ad",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "90059d6f-239f-4ac7-8ccc-4de79eb0f3a0",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9030db17-529b-4947-96ab-d0fc1fee993d",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "91e0e55b-13ed-448f-a697-23285fffe5a2",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "928cf223-4946-48c5-875c-af2e1b91bbd7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9408dbcf-84fc-470e-bb28-ab4bb0d28e7c",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "94c558b9-9920-4d5a-a71b-40c93934df52",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "95810927-0fda-427b-a245-47a492268a20",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "95b54ffa-f132-4e5d-9cb0-942e89892e6e",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "999991d0-70b7-49bd-9e85-52c20497a8dc",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "9a0460ab-253b-48a1-b407-dc11e784ae87",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9a660303-620e-4e5d-bebd-7a5c3e238eec",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9ba87522-0920-46d1-83db-423dbc6c0d56",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9c1bf014-f45f-448e-b2ae-fe54efd96998",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9f5eef33-41c0-4ecf-92e6-2b3e6601c121",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a03c8ec7-73b6-4c1c-af5c-0b0a453ecdb5",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "a13748b8-75f2-45f2-bc42-3fc2cf5105a7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a5251ccc-5dd4-4a21-8329-a941df955eaa",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "a62e89e3-cb51-46fc-9972-7f4369f404b1",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "a702c07b-c368-4a79-8d81-83dff49c4d00",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "aa54ec25-96f3-4c93-b867-5c7822fc43eb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "aba2ef08-6b45-49e5-989b-b156b5d38b00",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ae4ed38a-2bf7-4369-ab33-859f3e2fe612",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b0bdef4a-1851-4357-b179-4819ed8055a7",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "b0e44e4f-2eea-4105-b4d8-d64d36460081",
+    "category": "Tile",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "b1f4a98c-eb9b-4672-8378-8f0b3d567ee6",
+    "category": "Flooring",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b2751239-e457-4583-8a9d-d95991398329",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "b425fa5b-3e7d-47fe-95c2-30edce942a68",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b4a13a64-543b-4036-b6af-bf31c3d2ac45",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b60f6b23-21b1-44ef-875c-341234ee734d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b672d0ad-d958-48af-b3af-d0be75908d0e",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "bb714ce4-1dbb-4a38-9a04-a287de2006be",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "bc6ff099-1dd4-4dd0-89ee-b5b978054723",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bcc12a01-9809-47cd-b67b-dc8b99bcf66c",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bd4fa676-08ef-41d6-a15c-a9cfcb145f42",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bd934f54-d822-4789-97f0-e77216724786",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "c0be0f1e-c0ae-4ccc-a56f-08493774b5ca",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c29597d7-dd62-48a4-bb1c-154f949cecd8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c5714df1-67f2-427f-bc5c-cb1c66495382",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c5762b1a-98d9-4e8d-9522-41bb18f97643",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "c5df2b65-a40f-45f3-b277-5fbb1fc6cd1d",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c623a150-c9f3-4013-a7c3-bf9cc7b64588",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c75e0066-1ea7-4ef1-9fe4-7cbb5fc98909",
+    "category": "Paint",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "c778051d-4e2f-4c8f-97ef-5f8511ec2aa6",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "caaa1717-e26d-488e-81ba-3d480529ff09",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "cb78aa81-3f17-42b7-8769-b823a65b4679",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ce644bdb-8867-4e5d-8da4-20752ebf582f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d345abdf-7a7b-488e-a032-7dbeadb389e1",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d40b4670-d012-481f-a193-ce22fa4186df",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "d53b144a-a32a-48e6-823b-87358d7f1d60",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d5c6cc7c-ac11-461a-a94b-63ffe60eb5f1",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "d60a0322-042a-463d-b265-bf33b58bdbef",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "d67ba409-9dad-4b5b-b70d-da36162a4ac2",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d91a96ca-c855-40c9-8268-0f7086afa9be",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d9c7a3dd-743e-41e0-8d39-625f286e662a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "db230e1a-c62b-473b-bb87-1757700dafed",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dbec63e1-84ac-4080-953b-a0abfa1a184e",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "dbfa103a-28ff-49c7-8038-23db74b975e8",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ddd3eff7-58da-429e-bb85-87282ea4e715",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e039b6c7-fc19-439a-81e2-50cafc64966b",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e09b3c5c-611d-42e2-815b-7f7bf6537d5d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e3d84fef-532d-4cb7-bfac-c6011b0f53a8",
+    "category": "Tile",
+    "style": "Neoclassical"
+  },
+  {
+    "model_id": "e4ac73e9-c65a-41c2-a082-265dbe3f91f5",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e5ad0025-d60e-4a86-8d6c-f4aa018c3ce1",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "e78e16ea-b9dc-4d0f-865a-70397517d8db",
+    "category": "Metal",
+    "style": "Others"
+  },
+  {
+    "model_id": "e88d70ab-eafe-4c55-a712-266c1fbd40d5",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ea4717da-677e-462c-907e-18e5b43e5048",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ec7a4f6a-e2ca-4a0e-899c-5291549ab453",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "ecb89f63-cb7e-49dc-bbfc-05987becbf98",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ecbebe8f-0013-49c6-bdb3-cb7e5c73a63b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ee4ef4b2-2842-46d0-8dad-ee24ba3ff50f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ee538ba2-5531-4dbc-b295-46a868aae5e0",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ee5a0a9d-eec2-433f-a9d5-7d8584ad25f4",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f40e5095-70fa-4acb-a36d-caf420ea0c58",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f4650030-398a-4949-a138-ad9870b53c42",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f56ba9db-384b-4a53-84b4-bbd1d465ff8b",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "f577404a-6f4d-4691-bf6a-1267aae333ad",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "fa6f4e2e-ab29-4be4-965f-0c69a1993b71",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0035616d-7112-4e6b-a7c9-b20edb996095",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0179c5ca-7bc6-4be5-bcf6-ff8729b02ec4",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "01c92bfe-f296-4d06-b10a-95ae04714e68",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "029bc783-231a-434e-9abe-6f0686ae8df5",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "053a587d-9783-4525-9f62-6880153771b7",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "07654247-e84d-4ac9-9a47-7d4a519f1444",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "082ae158-84b8-4a7c-bf28-03871d4c8989",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "09899d69-fad9-41e8-91ec-b02c97001fb9",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "0bbc729d-05bf-4632-8447-ed9b703e137d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0c008040-acbc-4c1a-9b8f-32efaf400e23",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "10cf12dd-5508-45a7-8aca-7488e1dea732",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "11dffe20-2c9c-4a56-a32e-fe79ec078f4d",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "122e3af9-6f3b-4f72-b061-10ae87835ed8",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "122f6581-681e-45d1-822c-98ce93c05f2a",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1334febd-a188-4ad0-800b-6db6be0d08a4",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "16d2fc02-283a-4341-96c7-5dc794b6615e",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "195c8cd9-4c9f-4336-b2eb-7af013d50c12",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "197eba1b-d88d-4284-b3e8-af5756b251b8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1ae49ace-919c-45c4-aaaf-a5e6066f3a09",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "1bcf19d9-bb59-416a-8011-6bc3b505b436",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "2146b49d-f722-41a3-8723-f49b80c33301",
+    "category": "Cloth",
+    "style": null
+  },
+  {
+    "model_id": "22960675-9562-45da-a913-2d0b59873824",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "26503781-fe14-4ed0-bbbc-6c179bf7f81e",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "2a135da8-81ae-4b3d-b591-9293efa35a5d",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2baf085d-785a-4f8b-8c19-38866e050423",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "308b8f1a-76ac-45f0-bc36-bb7507ca4c12",
+    "category": "Flooring",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "336f6909-700d-4eac-9301-f6ac0c4d7ad8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "34628789-3403-45b3-81b5-6ed77e4d9397",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "35a2143f-d0b6-4c1f-90db-68f28da496d3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "363868ff-02af-495d-8c39-ca32dd3d66da",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "373dc9f3-ba95-4619-915a-eac3faaac2c0",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "3743be14-508c-46b7-9d31-f83a3565420f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "38045ba7-e683-47c0-a663-570edb3c622c",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "382e86d8-cf51-4e10-9e0b-5f5968b255e7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3ba036b4-e3d8-4e80-addd-6c72047e9162",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3bff9c8f-746f-40c1-a1e4-7660aa8511f0",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3d2b2b59-4d26-4311-81cf-095cdd2faf6c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3e638119-6ab5-4109-8e27-0df158934eb8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3f596c6f-8c0a-496d-a16b-f7f4ffd3ea3b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "413c599a-72c5-4db8-a980-3f7dc3ffbef2",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4206e3be-6604-4c9f-93a2-350cb0c75087",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4226932a-8ecf-4ce8-bae5-ee2a63596b17",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "446a2a44-d31a-4f16-b781-79187a7fd2d2",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "4966ea8c-e8af-49b0-9c89-cfc0adccc9c1",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4995f4f4-f478-4ec3-8f83-7a7ac4a7517c",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "4a70282c-9ae1-4a9e-aa1f-6f1546fe1ec3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4b692332-c341-4f4f-b7d5-51f139754522",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4b8bdd37-733c-40a0-bde5-cecbb2dfb9e3",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4d0ee353-2c33-4c5b-b471-112749b7ecaf",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4d417093-2e9f-4427-8d57-d9acfb0c72b3",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4e880ff5-8633-4925-8965-e281887c53b1",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5152944e-4f41-43ac-b601-0872e2f3418b",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "51e77ab4-c85d-4305-a3dc-cd74df18d5dd",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "53edb775-2711-4e0f-8135-52126ce8ec35",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "5584599a-fc06-4b49-88a2-2337bf50cbbb",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5a870937-a4fd-411c-a1f8-cd2c3c42f39a",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "5cb9e39a-a019-424b-b38a-c496d885367b",
+    "category": "Wood",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "5f8874f0-9d90-457a-a417-968cd57134b9",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "603cc499-728b-4617-a531-271a5dfc9288",
+    "category": "Mirror / Glass",
+    "style": "Others"
+  },
+  {
+    "model_id": "60d15ba0-7375-42b5-90f3-22b585c6385f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6409e09c-c85c-4f89-834b-c44c8d3c6698",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "66d04c66-aabd-4609-9fed-76defc87e445",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "66fed844-df47-493f-8635-b56542386641",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "69efd699-d042-4dba-9ad5-c6de700d4a03",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6bdeecda-6851-435f-9d1d-f76f4995e093",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "6ccb5e70-6ab7-4b91-8c2e-bb16023ee13d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6dc6cf7a-1093-405a-912b-a339b6fdf137",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6e97b99a-c165-4f38-90c5-288dd82eea2f",
+    "category": "Tile",
+    "style": "Southeast Asia"
+  },
+  {
+    "model_id": "71e1b79e-9e1e-4008-9800-a4c7e883b387",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7422df68-bcad-46f0-b638-659eb314e822",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "75010bfa-e51d-4847-b5b3-62e07dfca77c",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "79112701-a604-4eef-969f-44cda0ff962f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "79bf50be-95ba-4247-b3b9-7707c83df271",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8051ab2a-3718-48d7-9916-67cf648470dd",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8136cead-5a25-4270-9099-a3741c86e499",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "81c5e4e4-5831-44cc-a100-fef1f17716e9",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "820ad206-5305-40e9-a037-b4cf3db43872",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8339386d-e60c-4299-9aa0-424fb161b566",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8689f29f-3cab-4047-b556-5285b6c2e8f9",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "89248db2-5d22-4f3a-8b00-422bc1e42f96",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8933132d-04a4-47f8-b22e-55b6e2a717c9",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "898f3b96-5180-41a6-94bf-3be88840d04e",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b3b989e-9443-4e54-8cbc-d93fa7b9cc16",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8db39f1b-4175-4437-82b0-b1c9b30b4598",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9066698d-d23e-4e1c-9efd-d975d894d2da",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "90f7902b-dd7c-430b-8e25-4343b15d1dd6",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "91da9080-577a-46a9-a439-f9904c3518d7",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "93914d46-a93e-4538-a0b9-7ea3cedc2408",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "940c77de-6e8b-4858-a044-50b3b2cf7e72",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "94a587a3-27a4-4766-80d7-156a861bfe53",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "98b8adc2-536b-40ad-9e55-a22ba1f675e9",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "9992a6f0-5364-4c45-96ca-9f0064430902",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9fecb74d-15cf-4753-b88a-bfeac185e51d",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a103560c-bd6e-4b8a-99d0-668dd2721380",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a1a092e6-e9b1-4969-a823-b40b8ecc1cad",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a1de64da-25b4-43bc-9c60-b39fc5fe8715",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "a22b3197-76f4-4b87-b419-802166b40f25",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a73c74a5-32dd-439a-bff2-2ec32b5742f0",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "a7b686e6-e121-40ac-8aff-9c1e0ada0227",
+    "category": "Paint",
+    "style": "Mediterranean"
+  },
+  {
+    "model_id": "aac015e9-fe52-49e3-9bc5-3d9277794363",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "ac5e3cb0-1dc1-4002-a1a3-334065cd4e3e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ad13022a-c60b-4e81-9afd-d063f84a83e2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ade1bc3a-e6e7-4bc8-9605-be8d964fb181",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "aeb5c260-5bc2-432e-9582-40bc95c1fb14",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "af1d552c-8714-4f61-8131-6d3c7a30f13c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b237a8e0-401b-46eb-a248-d13705dea547",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "b3b1098b-4e1c-423d-9fbd-643a5d46c4bb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b3e121a8-cc48-4cae-a145-63144a46a800",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b4622c08-4dc1-4962-9a58-b2486f9d75ad",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b71b67d9-7c7b-4354-ab0f-985862c52116",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b7ded3d7-8305-45ef-9db1-348d673d213e",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "b85623b0-67fc-4597-8c51-15c980111bb7",
+    "category": "Mirror / Glass",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bbb2cdbb-ae54-406d-b2d2-6ff951720f8f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bbea4517-a394-47c0-b13d-384c6a4cbfc5",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bf26e28d-d567-4793-b386-cf78d0fbaa45",
+    "category": "Mirror / Glass",
+    "style": null
+  },
+  {
+    "model_id": "c1bab96d-d1f2-4a14-af82-55f453a8382f",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c28d8e0d-e648-4d20-8a27-fa18e93882cd",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c5d1f322-1ae0-429f-a816-5a77ae580a69",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "cb8d636b-9a26-43bc-89b0-dbd5775501d3",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "cc3871c6-cce4-438a-8460-3bf08f7f60a2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "ccd7dbe5-058b-4e3e-84d2-27e9fbdfef1f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "ce20ff27-4aa2-4638-bdce-aed2fc4900cf",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "ce85fc9c-382b-40c9-a91e-4271aa39be5d",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "ce99ebaa-9512-4f35-b6d8-6bffa04b8fc7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d045563a-439b-432b-a23b-d96889a2f3ee",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d0a94f03-88fd-4cc6-9f03-fa661975e7aa",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d1c88ae9-95c4-4091-a3e6-17cfdd1be24e",
+    "category": "Metal",
+    "style": "Industrial"
+  },
+  {
+    "model_id": "d25305e8-2bdf-4a21-add4-e4b4c6f99f42",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "d2c80a07-b51c-470d-9639-5887aadc374a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d2d54cf4-563b-4f76-bc8c-111895f52bd9",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "d31bb008-943e-422b-bcde-df5e335c85d2",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "d373632f-317a-422f-b2b0-a5fe660df728",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "d3a89882-ed50-4fc2-ba4c-01e5c6362eb3",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d4c4f3e4-deaf-491e-9ae5-bb256579dcf7",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d6ea4f54-7e4b-47e3-adfe-9e0d215aa74a",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d7eb9f73-f752-4fbb-b9f5-324297735bcc",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d80e67ff-d80f-442b-9053-6dceab976257",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dab0fa1a-122d-4de9-9e55-18272e45d61d",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "dba9ef2f-0eec-40d4-ad14-55b5dafcbafa",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "df1e4ab6-f77f-4d11-81ca-bd84891c3e17",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "dffa513c-def0-4a8b-b8e7-1337661a1aaf",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e28169b1-b5bf-4841-b583-53136526672f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e33cceb5-e775-4a9e-a9b3-ae309cc11d18",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "e3783b4c-5228-4472-832b-67407f1fa108",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e3e16d6b-18fd-4ce7-81a1-bd8163871499",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e4fa2a2b-c749-4417-9c87-ec906463850e",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "e52e0b51-f056-414b-bfc9-ef565f047d60",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e959e7af-0dcd-49f0-9bfe-aa12d0453b9b",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f3dd4801-f218-4cd4-aa8d-77040a21ee3b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "f76d0298-4657-4513-a76c-cec883c5aba3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f77cecdb-3802-488e-b0f1-7081648ef863",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f9e20ea2-3240-4949-82de-12cd4286742a",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fb38c8c4-8d3a-4be8-9db9-623824bb2437",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "fc0f8650-a140-41d8-b44c-f8c35cf01d50",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fcd1c52a-efb5-470d-ada3-2eae75f61add",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "fd4e162b-9772-4b2f-8628-edac7e06fb58",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "01e5aa41-ae93-440f-9e35-bce7184ffbb6",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "031738ac-9bc3-4716-91bf-49aeec455b81",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "055b12d2-220a-4912-bbbf-34f81068972f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "056074c3-58b7-4b05-84f7-f26d5fd45f3a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "09a22efd-71ff-444b-bbef-377102318eaf",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "09f8d265-699d-4bac-949f-bfb9a2f0cd89",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0c7d767e-1464-4ceb-9727-85ea1ba38a5c",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0cfa07a6-8a98-4a1c-b88c-9f135287855e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "0cfe280c-2fc2-465c-ac69-3dd6eaf8cd4a",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "0e4e77bc-ee28-4d85-a6dc-f809a0182f24",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "0e973564-fd3b-42c4-bb1f-3946fd3377c7",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "0f5c5d49-a331-4b9d-8228-8f9b2be261fe",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1034bc39-1084-467c-8687-4f399b169ccd",
+    "category": "Cloth",
+    "style": "Modern"
+  },
+  {
+    "model_id": "14ca29e3-0dc7-4936-b8f5-c2a85ef5475f",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1a2350fe-939a-4e78-9024-6aed6694fe1d",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "1a4794ad-b3d5-41fe-bfe3-2d3f6e9be019",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "1a638f1c-d00c-4759-b943-ad3702433db8",
+    "category": "Flooring",
+    "style": null
+  },
+  {
+    "model_id": "1bc620c1-3937-4faf-a2d6-a3e7fad7f51e",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "1c96d473-a51e-4733-94fe-f0984beea811",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "1d3dd251-e0d7-45a4-8ce6-03ee701f1e13",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "2195dbc7-784f-4611-a82d-4b9390e3f080",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "21a72474-8c75-42d4-b678-2b5e9ae5abaa",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "22d46782-d7b1-41d4-8fdd-211c770bfa7f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2347ddb8-d739-46df-8b48-676d0d45e206",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "24a8c023-1972-4e97-9b46-ccf880f74a93",
+    "category": "Mirror / Glass",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "24fa16dd-7d24-4c51-a4ed-209c30a94b96",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "271d1eb9-ba9f-4980-adbe-8474e218c05f",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "29dac7ea-bba8-4314-9308-3cd6685b46f8",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2b8e04d7-05e0-4f96-92b7-4fc59d54bc30",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "2ca67c08-f98d-4b2d-8f36-a6612008a74a",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "2e435129-72c5-4c80-ad0d-deb787d4fdbb",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "30c9f73f-3e96-48df-a08b-37061562acff",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3115b3fe-4cb5-4e58-a947-c6f6f71d0255",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "3214029d-24b2-4615-811e-7922c19a865f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "32b4ef48-b3ac-4372-9bdb-2495b57b04bd",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "3356df1d-4e5f-47b1-b892-8d540391da17",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "33da3c6f-dd2a-477d-8f27-c39448aff931",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "375838f9-fdf6-4729-a757-1b3c62d14376",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "37dbc576-d956-49cf-b5c2-cec33ab7e379",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "39f84f24-e24c-45f7-97f8-d040e4785463",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "3cbe7412-a6a0-4383-9518-943b8e35adcc",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3eb634bf-1a91-4c60-bead-dc0c09cede34",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "3f37f008-739b-405b-873d-94cc662a0aed",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "3fc81c3c-bfa9-4b1d-b66d-dbd35d94b5aa",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "47056ae1-badd-4422-a3ff-46349fc530b8",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "479beaf1-851f-43e3-83e4-7d4817d8ed83",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "48d74720-1013-4cae-a0a7-de6c4bbf12eb",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4a6cca62-8234-4465-a55c-314d0c504065",
+    "category": "Others",
+    "style": "Others"
+  },
+  {
+    "model_id": "4bc676fd-5c27-4dd8-b899-b67767f2a5b2",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4cb223a1-4601-400c-8bb2-2294c087ac56",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "4f882cd8-69d8-438b-bfcb-aa4c855c422d",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "4ff161e0-88dc-42fc-a584-8944764b1efd",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "54059013-301c-4cda-bcf3-e936846f4fd2",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "56495ade-e24f-4c93-ac13-cfaebff4446a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "59e1ef06-89b9-4318-be38-9e460f737b2d",
+    "category": "Paint",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "5a15f696-96bc-4321-9433-4f16caf41ac6",
+    "category": "Flooring",
+    "style": null
+  },
+  {
+    "model_id": "5b2c69fd-a87d-4c66-8254-0d19a1b75574",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "5f26cd62-aad3-40ae-a3dd-5badb56de6fe",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "602e68c0-80f7-473c-b19d-022c6aafa6a6",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "61b33d42-8ff9-4e5c-9b22-ef9fb979ade7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "62f333bb-ec5b-4cd1-adf9-390b525dfe15",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "683032a8-44bd-411a-b90f-7df6bcc50c31",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "68ea3602-8326-41bb-82a7-958f08b1449a",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "691ae9da-e4ba-4da0-ae16-ce0468e34351",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "6aee8192-cfa2-4a14-bb9c-cf6074c92a1a",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "6e05eecd-af80-494f-a428-bd3c1592cd33",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "6f2e22a7-90ff-4150-b29a-f7cb02fa9dab",
+    "category": "Tile",
+    "style": "European Classic"
+  },
+  {
+    "model_id": "7136d67f-a403-49af-8a51-69be587f3fa2",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "75971d01-dc38-46a7-a33e-a954c8512d9a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "77f15fb3-f756-4b18-9025-d4bf1feda809",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "78b6a336-7895-45a7-9f5a-f239e04cc47f",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "797968a4-8b62-4693-afa9-b53d23235aa2",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "797fe69b-2758-441a-9585-05573cf5e5fd",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7b5b7968-14f5-42cf-b64e-e8029d121ead",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7ca39fd6-f5c3-4835-8c88-482cc53b7d38",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "7cd5b58e-24d9-44d6-9e56-0f4b3ea2d182",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7e44c39c-b737-4a0e-8145-6ff0dc6e1aed",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "7e9c15e7-5d37-44ba-9ef6-4b67f8873b71",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8060070d-ff4c-4700-a284-5bf28e9080cf",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "81a306e8-c6ec-4632-9f40-5d754a804414",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "82bb08ab-9ab0-4fbd-832b-1430bc9b9f52",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "85d24919-3d7b-4a69-9427-eb0507b7baf5",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "85ec9e92-a3a8-46fd-b4a3-d9616fb7d620",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "8733005b-4c82-495c-a622-eb8a0524d5d1",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "885c1830-5c6b-4c1a-b546-ea986dc1c994",
+    "category": "Stone",
+    "style": "Others"
+  },
+  {
+    "model_id": "89afd50f-b16b-4dd1-8f5e-5a4308b3d00a",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "8af45132-e2fc-44e0-87cd-696167d98d05",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8b14b534-b1c2-47e3-aa67-d3980aefea87",
+    "category": null,
+    "style": "Others"
+  },
+  {
+    "model_id": "8ede1c3a-271d-46a2-a9a8-89849780aef8",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "8f6b5df7-e8ae-4ff5-b11a-b5c599400d93",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "90ef2665-d4a6-4ee2-b14a-21e9b19381be",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9337a6d2-d7ac-42f7-a64c-17063c4bab3c",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "94dfa325-8cf8-425f-ba72-5f453f148f74",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "95f1e2fa-9260-494b-825a-45ecf86e1cf0",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "9658195c-d084-4e12-bb61-67a2f72353e9",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "96bf981f-d581-49e8-a886-23f7a706eafe",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9712aed4-b9c3-427b-a608-325e8132b904",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "986c8eaa-0fc0-48a2-9c1c-7b5bc4d4e3ab",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9ad8b8a3-2272-451f-aaa4-cb6c5180cb60",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9af7d4dc-2fa7-430e-b212-282886b163d1",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "9dac1e29-32be-46b6-a76a-17cf7bdc9f2d",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "a4a7e33c-d96f-4b49-8402-ebfe1b673db6",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "a7987671-1872-49b8-8491-b6ac9f50c6f2",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "a9a72e53-394c-455e-a2cd-a2d636245b1e",
+    "category": null,
+    "style": "Others"
+  },
+  {
+    "model_id": "a9d56c3a-88ca-43b3-a355-5939ca831fa1",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "af72cd9a-e9e1-4abe-9d46-2072c8a8bced",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b1414a27-247c-44fe-8ea4-5e878e1d8a55",
+    "category": "Wallpaper",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b22bb340-4fc5-45b8-a23e-093fb8a2170b",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b2376856-87be-4d59-88bf-2f37bf5f3d6f",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "b2775b53-fead-47bc-b6ab-3fd2679a3c7a",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b2a1b582-140b-45b0-9d3e-c6521289c80d",
+    "category": "Wood",
+    "style": "Others"
+  },
+  {
+    "model_id": "b3d5eb69-4b94-426d-bd4c-62f8ca739623",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b500fad6-9998-468f-b11f-ad0e84eb6e9c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "b5bb9aeb-5e40-440a-b14d-41b2dd984797",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "b9094a18-14ee-453c-9632-c1bb1619613f",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "ba79408f-1a77-491b-b8ad-ce1bd590d3a2",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "bc58738b-6e8e-480f-ab83-5c19e17f8fe8",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "bc5a79bb-de3b-4f4c-bb00-b181a3aca633",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "be50f014-7709-4dff-92cd-d2e7a0a35e96",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "bf296920-f523-4661-a985-9b8811804582",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "bfcd482a-7427-43fa-9243-68f9ba723469",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "c040c46e-4d3e-47a9-889c-d0a3dcf54317",
+    "category": "Stone",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c1a5f59f-6bab-4235-8ea4-9b8850fc65c6",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "c3aca326-8abf-4e5b-983c-aa0e6bd2269d",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c50304e4-75c4-48e0-a8b2-54c2fa056597",
+    "category": "Metal",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c69074ad-3886-4e9a-b12a-ac39393e2928",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c73fb403-6c25-4dbe-9703-09f7523bea6e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "c783b1b2-1f73-4bb2-baf9-7f619386440f",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "c896dfd6-a652-4c7f-a6ea-8897df005044",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cb25ba93-4b70-43d3-a7f7-2431bc92f107",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cbfa4d16-9a5a-43cb-9360-cc6c3750993d",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "cfada7bd-f238-4419-a7dc-1c6750b9d51e",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "d1fa2366-3623-44f8-87d8-88836c969f94",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d2529504-3667-4140-9e9a-24a150bb0733",
+    "category": "Wallpaper",
+    "style": "New Chinese"
+  },
+  {
+    "model_id": "d34f3bb9-2ef8-4e5e-9b80-07e9e57987dc",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "d4f32a3a-2302-4316-ab7b-abb9a0d5117c",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "d6e0b207-028c-4ce3-8382-840d5125793c",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "db96ea14-1a04-41d3-bcfa-aa1173fb1637",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "dc255747-e255-4e3f-9c7d-534f7e2ed19d",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "de54b558-8564-4e8c-ace0-4994bab222d6",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "de57cade-211e-4ccf-9188-72a3da318ca4",
+    "category": "Leather",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e0161ace-054e-4c0c-857a-92908f6424d8",
+    "category": "Mirror / Glass",
+    "style": "Others"
+  },
+  {
+    "model_id": "e02b333b-0699-49bd-b861-cb7a87b4e026",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "e065f151-713d-41d7-812f-035d8cfac16b",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e2824563-658f-46a6-9bb8-8407572198e8",
+    "category": "Paint",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e36f3e76-32bc-4e88-9e57-60c64e00bd32",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "e66515e8-86cd-496c-9686-fbf6d68622f7",
+    "category": "Wood",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e718be92-3008-4de2-94f5-c8c1e7cf0861",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e81a4318-206a-43e1-9f1e-8f719ac72f20",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e8a45bac-142e-44b7-90fa-3bf6362b2c4b",
+    "category": "Tile",
+    "style": null
+  },
+  {
+    "model_id": "e8c5b73e-0c28-4ac4-a859-a933a06fe0c3",
+    "category": "Tile",
+    "style": "Modern"
+  },
+  {
+    "model_id": "e935b23a-0030-433f-8106-7c090c550536",
+    "category": "Tile",
+    "style": "Nordic"
+  },
+  {
+    "model_id": "eccdd071-36f2-43ce-8d45-a4364a498d5c",
+    "category": "Tile",
+    "style": "Vintage/Retro"
+  },
+  {
+    "model_id": "ed680d1d-63c2-4290-9893-d77ce880d56f",
+    "category": "Wallpaper",
+    "style": "Others"
+  },
+  {
+    "model_id": "edc2f4ec-662f-43e8-b65f-eb97d08f2e1a",
+    "category": "Tile",
+    "style": "Others"
+  },
+  {
+    "model_id": "edc986a4-9d24-422f-b69c-97557e7409f7",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f22abf6d-1bd5-43a3-a4de-f25c9d9f7b1e",
+    "category": "Flooring",
+    "style": "Modern"
+  },
+  {
+    "model_id": "f40e2c56-f3ad-4f92-b415-118470e51742",
+    "category": "Paint",
+    "style": "Others"
+  },
+  {
+    "model_id": "f4605928-58e0-4b19-b8f2-fda019fefd33",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "fa216e1e-422f-4068-8d2c-15d419bf66d9",
+    "category": "Tile",
+    "style": "American Country"
+  },
+  {
+    "model_id": "fbdc0103-23b2-48b2-a64f-e90895266a0e",
+    "category": "Tile",
+    "style": null
+  }
+]
