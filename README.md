@@ -1,5 +1,6 @@
 # Indor scene generation
-Based on 3D-Front and 3D-Future datasets.
+Proposing a method for generating indoor scenes: training a generative adversarial network
+for generating room images which are then rendered in 3D.
 
 ## Installation
 
@@ -26,10 +27,10 @@ In order to create synthetic dataset used by this project, you should run `prepr
 3D-FRONT dataset with necessary json format. Script `dataset.py` will create room images and associated labels from parsed
 dataset. Usage example:
 
-    ```
-    python preprocess.py --input 3D-FRONT-base/3D-Front/ --output 3D-FRONT-base/3D-FRONT-parsed/
-    python dataset.py --path_to_images gen-images/ --path_to_labels gen-labels/ --path_to_houses 3D-FRONT-base/3D-FRONT-parsed/
-    ```
+```bash
+python preprocess.py --input 3D-FRONT-base/3D-Front/ --output 3D-FRONT-base/3D-FRONT-parsed/
+python dataset.py --path_to_images gen-images/ --path_to_labels gen-labels/ --path_to_houses 3D-FRONT-base/3D-FRONT-parsed/
+```
 
 Alternatively, you can download already created dataset from [Google Drive]()
 
@@ -60,18 +61,18 @@ If you want to train new models, please refer to provided [guide](https://github
 Executing `generate.py` will generate new room image based on provided label. You can add conditions (e.g. `--bed` argument
 forces generated image to include a bed). Example usage:
 
-    ```
-    python generate.py --path_to_label examples/label.png --path_to_output examples/ --bed --cabinet --lighting
-    ```
+```bash
+python generate.py --path_to_label examples/label.png --path_to_output examples/ --bed --cabinet --lighting
+```
 
 Note that label.png can either be RGB or grayscale.
 
 ## Rendering rooms
 For room rendering [simple-3dviz](https://simple-3dviz.com/) is used. Example usage:
 
-    ```
-    python render.py --path_to_image --path_to_label --render_mode auto --style Modern
-    ```
+```bash
+python render.py --path_to_image --path_to_label --render_mode auto --style Modern
+```
 
 List of possible furniture and texture styles:
 * `Modern`
@@ -91,4 +92,5 @@ List of possible furniture and texture styles:
 * `Ming Qing`
 * `Neoclassical`
 
+Rendered room example:
 ![Example of a rendered room](./examples/example.gif)
