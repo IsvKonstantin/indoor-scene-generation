@@ -1,2 +1,12 @@
-*.iml
 .idea/
+.DS_Store
+sean/checkpoints/
+sean/ui_results/
+sean/results/
+sean/styles_test
+sean/styles_test/mean_style_code/
+sean/styles_test/style_codes/
+sean/datasets/generate_img
+sean/datasets/generate_label
+sean/datasets/train_img
+sean/datasets/train_label
