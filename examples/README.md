@@ -48,4 +48,5 @@ scene-diversity-example
 ![Сравнение](scene-diversity-example.png)
 
 Пример сохранения `.gif` изображения.
+
 ![Example of a rendered room](gif-example.gif)
