@@ -1,6 +1,6 @@
 # Indor scene generation
 Proposing a method for generating indoor scenes: training a generative adversarial network
-for generating room images which are then rendered in 3D.
+for generating room images which are then rendered in 3D. This project was a part of my [bachelor diploma](thesis.pdf).
 
 ## Installation
 
