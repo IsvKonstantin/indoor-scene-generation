@@ -92,5 +92,4 @@ List of possible furniture and texture styles:
 * `Ming Qing`
 * `Neoclassical`
 
-Rendered room example:
-![Example of a rendered room](./examples/example.gif)
+[More examples](./examples/)
